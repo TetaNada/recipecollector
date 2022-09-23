@@ -1,0 +1,6341 @@
+{
+  "Butter": {
+    "calories": "717 calories",
+    "fat": "81 g",
+    "colesterol": "215 mg",
+    "sodium": "11 mg",
+    "potassium": "24 mg",
+    "carbs": "0.1 g",
+    "proteins": "0.9 g"
+  },
+  "Baking powder": {
+    "calories": "53 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "10,600 mg",
+    "potassium": "20 mg",
+    "carbs": "28 g",
+    "proteins": "0 g"
+  },
+  "Lemon juice": {
+    "calories": "22 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "1 mg",
+    "potassium": "103 mg",
+    "carbs": "7 g",
+    "proteins": "0.4 g"
+  },
+  "Baking soda": {
+    "calories": "0 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "27,360 mg",
+    "potassium": "",
+    "carbs": "0 g",
+    "proteins": "0 g"
+  },
+  "Oil": {
+    "calories": "8 calories",
+    "fat": "1 g",
+    "colesterol": "0 mg",
+    "sodium": "0 mg",
+    "potassium": "",
+    "carbs": "0 g",
+    "proteins": "0 g"
+  },
+  "Cheese": {
+    "calories": "402,5 kcal",
+    "fat": "33 g",
+    "colesterol": "105 mg",
+    "sodium": "621 mg",
+    "potassium": "98 mg",
+    "carbs": "1,3 g",
+    "proteins": "25 g"
+  },
+  "Bouillon": {
+    "calories": "267 calories",
+    "fat": "14 g",
+    "colesterol": "13 mg",
+    "sodium": "23,875 mg",
+    "potassium": "309 mg",
+    "carbs": "18 g",
+    "proteins": "17 g"
+  },
+  "Cumin": {
+    "calories": "375 calories",
+    "fat": "22 g",
+    "colesterol": "0 mg",
+    "sodium": "168 mg",
+    "potassium": "1,788 mg",
+    "carbs": "44 g",
+    "proteins": "18 g"
+  },
+  "Garlic powder": {
+    "calories": "331 calories",
+    "fat": "0.7 g",
+    "colesterol": "0 mg",
+    "sodium": "60 mg",
+    "potassium": "1,193 mg",
+    "carbs": "73 g",
+    "proteins": "17 g"
+  },
+  "Lime juice": {
+    "calories": "25 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "2 mg",
+    "potassium": "117 mg",
+    "carbs": "8 g",
+    "proteins": "0.4 g"
+  },
+  "Pineapple": {
+    "calories": "42 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "0.8 mg",
+    "potassium": "91.6 mg",
+    "carbs": "11 g",
+    "proteins": "0.5 g"
+  },
+  "Rice, white, long-grain, cooked": {
+    "calories": "130 calories",
+    "fat": "0.3 g",
+    "colesterol": "0 mg",
+    "sodium": "1 mg",
+    "potassium": "35 mg",
+    "carbs": "28 g",
+    "proteins": "2.7 g"
+  },
+  "Raisins, seedless": {
+    "calories": "299 calories",
+    "fat": "0.5 g",
+    "colesterol": "0 mg",
+    "sodium": "11 mg",
+    "potassium": "749 mg",
+    "carbs": "79 g",
+    "proteins": "3.1 g"
+  },
+  "Coconut": {
+    "calories": "354 calories",
+    "fat": "33 g",
+    "colesterol": "0 mg",
+    "sodium": "20 mg",
+    "potassium": "356 mg",
+    "carbs": "15 g",
+    "proteins": "3.3 g"
+  },
+  "Mixed nuts, oil roasted, with salt added": {
+    "calories": "607 calories",
+    "fat": "54 g",
+    "colesterol": "0 mg",
+    "sodium": "273 mg",
+    "potassium": "632 mg",
+    "carbs": "21 g",
+    "proteins": "20 g"
+  },
+  "Cornstarch": {
+    "calories": "381 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "9 mg",
+    "potassium": "3 mg",
+    "carbs": "91 g",
+    "proteins": "0.3 g"
+  },
+  "Cloves, ground": {
+    "calories": "274 calories",
+    "fat": "13 g",
+    "colesterol": "0 mg",
+    "sodium": "277 mg",
+    "potassium": "1,020 mg",
+    "carbs": "66 g",
+    "proteins": "6 g"
+  },
+  "Mustard": {
+    "calories": "66 calories",
+    "fat": "4 g",
+    "colesterol": "0 mg",
+    "sodium": "1,135 mg",
+    "potassium": "138 mg",
+    "carbs": "5 g",
+    "proteins": "4.4 g"
+  },
+  "Chives": {
+    "calories": "30 calories",
+    "fat": "0.7 g",
+    "colesterol": "0 mg",
+    "sodium": "3 mg",
+    "potassium": "296 mg",
+    "carbs": "4.4 g",
+    "proteins": "3.3 g"
+  },
+  "Kupus": {
+    "calories": "24,6 kcal",
+    "fat": "0,1 g",
+    "colesterol": "0 mg",
+    "sodium": "18 mg",
+    "potassium": "170 mg",
+    "carbs": "6 g",
+    "proteins": "1,3 g"
+  },
+  "Onion powder": {
+    "calories": "342 calories",
+    "fat": "1 g",
+    "colesterol": "0 mg",
+    "sodium": "73 mg",
+    "potassium": "985 mg",
+    "carbs": "79 g",
+    "proteins": "10 g"
+  },
+  "Cranberries, dried sweetened": {
+    "calories": "308 calories",
+    "fat": "1.4 g",
+    "colesterol": "0 mg",
+    "sodium": "3 mg",
+    "potassium": "40 mg",
+    "carbs": "82 g",
+    "proteins": "0.1 g"
+  },
+  "Cola, without caffeine": {
+    "calories": "41 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "4 mg",
+    "potassium": "3 mg",
+    "carbs": "11 g",
+    "proteins": "0 g"
+  },
+  "Curry powder": {
+    "calories": "325 calories",
+    "fat": "14 g",
+    "colesterol": "0 mg",
+    "sodium": "52 mg",
+    "potassium": "1,543 mg",
+    "carbs": "58 g",
+    "proteins": "13 g"
+  },
+  "Coconut milk": {
+    "calories": "230 calories",
+    "fat": "24 g",
+    "colesterol": "0 mg",
+    "sodium": "15 mg",
+    "potassium": "263 mg",
+    "carbs": "6 g",
+    "proteins": "2.3 g"
+  },
+  "Sesame seeds": {
+    "calories": "573 calories",
+    "fat": "50 g",
+    "colesterol": "0 mg",
+    "sodium": "11 mg",
+    "potassium": "468 mg",
+    "carbs": "23 g",
+    "proteins": "18 g"
+  },
+  "Turmeric": {
+    "calories": "354 calories",
+    "fat": "10 g",
+    "colesterol": "0 mg",
+    "sodium": "38 mg",
+    "potassium": "2,525 mg",
+    "carbs": "65 g",
+    "proteins": "8 g"
+  },
+  "White Wine": {
+    "calories": "1 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "0.1 mg",
+    "potassium": "0.7 mg",
+    "carbs": "0 g",
+    "proteins": "0 g"
+  },
+  "Jalapeno pepper": {
+    "calories": "28 calories",
+    "fat": "0.4 g",
+    "colesterol": "0 mg",
+    "sodium": "3 mg",
+    "potassium": "248 mg",
+    "carbs": "7 g",
+    "proteins": "0.9 g"
+  },
+  "Pinto beans, raw": {
+    "calories": "347 calories",
+    "fat": "1.2 g",
+    "colesterol": "0 mg",
+    "sodium": "12 mg",
+    "potassium": "1,393 mg",
+    "carbs": "63 g",
+    "proteins": "21 g"
+  },
+  "Peanuts": {
+    "calories": "567 calories",
+    "fat": "49 g",
+    "colesterol": "0 mg",
+    "sodium": "18 mg",
+    "potassium": "705 mg",
+    "carbs": "16 g",
+    "proteins": "26 g"
+  },
+  "Vinegar, cider": {
+    "calories": "22 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "5 mg",
+    "potassium": "73 mg",
+    "carbs": "0.9 g",
+    "proteins": "0 g"
+  },
+  "Vrhnje": {
+    "calories": "195,5 kcal",
+    "fat": "19 g",
+    "colesterol": "66 mg",
+    "sodium": "40 mg",
+    "potassium": "122 mg",
+    "carbs": "3,7 g",
+    "proteins": "2,7 g"
+  },
+  "Oil, coconut": {
+    "calories": "862 calories",
+    "fat": "100 g",
+    "colesterol": "0 mg",
+    "sodium": "0 mg",
+    "potassium": "",
+    "carbs": "0 g",
+    "proteins": "0 g"
+  },
+  "yeast, compressed": {
+    "calories": "105 calories",
+    "fat": "1.9 g",
+    "colesterol": "0 mg",
+    "sodium": "30 mg",
+    "potassium": "601 mg",
+    "carbs": "18 g",
+    "proteins": "8 g"
+  },
+  "Olives, small": {
+    "calories": "115 calories",
+    "fat": "11 g",
+    "colesterol": "0 mg",
+    "sodium": "735 mg",
+    "potassium": "8 mg",
+    "carbs": "6 g",
+    "proteins": "0.8 g"
+  },
+  "Corn syrup, dark": {
+    "calories": "286 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "155 mg",
+    "potassium": "44 mg",
+    "carbs": "78 g",
+    "proteins": "0 g"
+  },
+  "Cheese, ricotta, whole milk": {
+    "calories": "174 calories",
+    "fat": "13 g",
+    "colesterol": "51 mg",
+    "sodium": "84 mg",
+    "potassium": "105 mg",
+    "carbs": "3 g",
+    "proteins": "11 g"
+  },
+  "Capers, canned": {
+    "calories": "23 calories",
+    "fat": "0.9 g",
+    "colesterol": "0 mg",
+    "sodium": "2,769 mg",
+    "potassium": "40 mg",
+    "carbs": "4.9 g",
+    "proteins": "2.4 g"
+  },
+  "Feta cheese": {
+    "calories": "264 calories",
+    "fat": "21 g",
+    "colesterol": "89 mg",
+    "sodium": "1,116 mg",
+    "potassium": "62 mg",
+    "carbs": "4.1 g",
+    "proteins": "14 g"
+  },
+  "Swiss cheese": {
+    "calories": "380 calories",
+    "fat": "28 g",
+    "colesterol": "92 mg",
+    "sodium": "192 mg",
+    "potassium": "77 mg",
+    "carbs": "5 g",
+    "proteins": "27 g"
+  },
+  "Cream Of Tartar": {
+    "calories": "258 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "52 mg",
+    "potassium": "16,500 mg",
+    "carbs": "62 g",
+    "proteins": "0 g"
+  },
+  "Cherries, red": {
+    "calories": "50 calories",
+    "fat": "0.3 g",
+    "colesterol": "0 mg",
+    "sodium": "3 mg",
+    "potassium": "173 mg",
+    "carbs": "12 g",
+    "proteins": "1 g"
+  },
+  "Cauliflower": {
+    "calories": "25 calories",
+    "fat": "0.3 g",
+    "colesterol": "0 mg",
+    "sodium": "30 mg",
+    "potassium": "299 mg",
+    "carbs": "5 g",
+    "proteins": "1.9 g"
+  },
+  "Losos": {
+    "calories": "208,2 kcal",
+    "fat": "13 g",
+    "colesterol": "55 mg",
+    "sodium": "59 mg",
+    "potassium": "363 mg",
+    "carbs": "0 g",
+    "proteins": "20 g"
+  },
+  "Fish sauce": {
+    "calories": "35 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "7,851 mg",
+    "potassium": "288 mg",
+    "carbs": "3.6 g",
+    "proteins": "5 g"
+  },
+  "Peanut oil": {
+    "calories": "884 calories",
+    "fat": "100 g",
+    "colesterol": "0 mg",
+    "sodium": "0 mg",
+    "potassium": "",
+    "carbs": "0 g",
+    "proteins": "0 g"
+  },
+  "Goat cheese": {
+    "calories": "364 calories",
+    "fat": "30 g",
+    "colesterol": "79 mg",
+    "sodium": "515 mg",
+    "potassium": "158 mg",
+    "carbs": "0.1 g",
+    "proteins": "22 g"
+  },
+  "Chicken Thighs": {
+    "calories": "177 calories",
+    "fat": "8 g",
+    "colesterol": "135 mg",
+    "sodium": "87 mg",
+    "potassium": "277 mg",
+    "carbs": "0 g",
+    "proteins": "24 g"
+  },
+  "Tofu": {
+    "calories": "76 calories",
+    "fat": "4.8 g",
+    "colesterol": "0 mg",
+    "sodium": "7 mg",
+    "potassium": "121 mg",
+    "carbs": "1.9 g",
+    "proteins": "8 g"
+  },
+  "Limunova korica": {
+    "calories": "47,1 kcal",
+    "fat": "0,3 g",
+    "colesterol": "0 mg",
+    "sodium": "6 mg",
+    "potassium": "160 mg",
+    "carbs": "16 g",
+    "proteins": "1,5 g"
+  },
+  "Yellow cake mix": {
+    "calories": "432 calories",
+    "fat": "12 g",
+    "colesterol": "2 mg",
+    "sodium": "657 mg",
+    "potassium": "82 mg",
+    "carbs": "78 g",
+    "proteins": "4.4 g"
+  },
+  "Vodka, 80 proof": {
+    "calories": "231 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "1 mg",
+    "potassium": "1 mg",
+    "carbs": "0 g",
+    "proteins": "0 g"
+  },
+  "Coffee": {
+    "calories": "0 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "2 mg",
+    "potassium": "49 mg",
+    "carbs": "0 g",
+    "proteins": "0.1 g"
+  },
+  "Apple juice, unsweetened": {
+    "calories": "46 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "4 mg",
+    "potassium": "101 mg",
+    "carbs": "11 g",
+    "proteins": "0.1 g"
+  },
+  "Pears": {
+    "calories": "57 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "1 mg",
+    "potassium": "116 mg",
+    "carbs": "15 g",
+    "proteins": "0.4 g"
+  },
+  "Tomato soup": {
+    "calories": "30 calories",
+    "fat": "0.3 g",
+    "colesterol": "0 mg",
+    "sodium": "190 mg",
+    "potassium": "112 mg",
+    "carbs": "7 g",
+    "proteins": "0.8 g"
+  },
+  "Arugula": {
+    "calories": "25,1 kcal",
+    "fat": "0,7 g",
+    "colesterol": "0 mg",
+    "sodium": "27 mg",
+    "potassium": "369 mg",
+    "carbs": "3,7 g",
+    "proteins": "2,6 g"
+  },
+  "Barbeque sauce": {
+    "calories": "172 calories",
+    "fat": "0.6 g",
+    "colesterol": "0 mg",
+    "sodium": "1,027 mg",
+    "potassium": "232 mg",
+    "carbs": "41 g",
+    "proteins": "0.8 g"
+  },
+  "American cheese": {
+    "calories": "371 calories",
+    "fat": "32 g",
+    "colesterol": "100 mg",
+    "sodium": "1,671 mg",
+    "potassium": "132 mg",
+    "carbs": "3.7 g",
+    "proteins": "18 g"
+  },
+  "Hazelnuts": {
+    "calories": "628 calories",
+    "fat": "61 g",
+    "colesterol": "0 mg",
+    "sodium": "0 mg",
+    "potassium": "680 mg",
+    "carbs": "17 g",
+    "proteins": "15 g"
+  },
+  "Crab, king, cooked": {
+    "calories": "97 calories",
+    "fat": "1.5 g",
+    "colesterol": "53 mg",
+    "sodium": "1,072 mg",
+    "potassium": "262 mg",
+    "carbs": "0 g",
+    "proteins": "19 g"
+  },
+  "Fennel": {
+    "calories": "31 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "52 mg",
+    "potassium": "414 mg",
+    "carbs": "7 g",
+    "proteins": "1.2 g"
+  },
+  "Tomato juice": {
+    "calories": "17 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "10 mg",
+    "potassium": "229 mg",
+    "carbs": "4.2 g",
+    "proteins": "0.8 g"
+  },
+  "Evaporated Milk": {
+    "calories": "134 calories",
+    "fat": "8 g",
+    "colesterol": "29 mg",
+    "sodium": "106 mg",
+    "potassium": "303 mg",
+    "carbs": "10 g",
+    "proteins": "7 g"
+  },
+  "Rhubarb": {
+    "calories": "21 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "4 mg",
+    "potassium": "288 mg",
+    "carbs": "4.5 g",
+    "proteins": "0.9 g"
+  },
+  "Radishes": {
+    "calories": "16 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "39 mg",
+    "potassium": "233 mg",
+    "carbs": "3.4 g",
+    "proteins": "0.7 g"
+  },
+  "Cheese, Monterey Jack": {
+    "calories": "373 calories",
+    "fat": "30 g",
+    "colesterol": "89 mg",
+    "sodium": "536 mg",
+    "potassium": "81 mg",
+    "carbs": "0.7 g",
+    "proteins": "24 g"
+  },
+  "Saffron": {
+    "calories": "310 calories",
+    "fat": "6 g",
+    "colesterol": "0 mg",
+    "sodium": "148 mg",
+    "potassium": "1,724 mg",
+    "carbs": "65 g",
+    "proteins": "11 g"
+  },
+  "Hoisin sauce": {
+    "calories": "220 calories",
+    "fat": "3.4 g",
+    "colesterol": "3 mg",
+    "sodium": "1,615 mg",
+    "potassium": "119 mg",
+    "carbs": "44 g",
+    "proteins": "3.3 g"
+  },
+  "Apricots": {
+    "calories": "48 calories",
+    "fat": "0.4 g",
+    "colesterol": "0 mg",
+    "sodium": "1 mg",
+    "potassium": "259 mg",
+    "carbs": "11 g",
+    "proteins": "1.4 g"
+  },
+  "Summer squash": {
+    "calories": "16 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "2 mg",
+    "potassium": "262 mg",
+    "carbs": "3.4 g",
+    "proteins": "1.2 g"
+  },
+  "Mustard seed": {
+    "calories": "508 calories",
+    "fat": "36 g",
+    "colesterol": "0 mg",
+    "sodium": "13 mg",
+    "potassium": "738 mg",
+    "carbs": "28 g",
+    "proteins": "26 g"
+  },
+  "Macaroni, dry": {
+    "calories": "371 calories",
+    "fat": "1.5 g",
+    "colesterol": "0 mg",
+    "sodium": "6 mg",
+    "potassium": "223 mg",
+    "carbs": "75 g",
+    "proteins": "13 g"
+  },
+  "White chocolate": {
+    "calories": "539 calories",
+    "fat": "32 g",
+    "colesterol": "21 mg",
+    "sodium": "90 mg",
+    "potassium": "286 mg",
+    "carbs": "59 g",
+    "proteins": "6 g"
+  },
+  "Grapes": {
+    "calories": "67 calories",
+    "fat": "0.4 g",
+    "colesterol": "0 mg",
+    "sodium": "2 mg",
+    "potassium": "191 mg",
+    "carbs": "17 g",
+    "proteins": "0.6 g"
+  },
+  "Cashews": {
+    "calories": "553 calories",
+    "fat": "44 g",
+    "colesterol": "0 mg",
+    "sodium": "12 mg",
+    "potassium": "660 mg",
+    "carbs": "30 g",
+    "proteins": "18 g"
+  },
+  "Agave nectar": {
+    "calories": "310 calories",
+    "fat": "0.5 g",
+    "colesterol": "0 mg",
+    "sodium": "4 mg",
+    "potassium": "4 mg",
+    "carbs": "76 g",
+    "proteins": "0.1 g"
+  },
+  "Salt": {
+    "calories": "0 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "38,758 mg",
+    "potassium": "8 mg",
+    "carbs": "0 g",
+    "proteins": "0 g"
+  },
+  "Cheese, gruyere": {
+    "calories": "413 calories",
+    "fat": "32 g",
+    "colesterol": "110 mg",
+    "sodium": "336 mg",
+    "potassium": "81 mg",
+    "carbs": "0.4 g",
+    "proteins": "30 g"
+  },
+  "Cheese, provolone": {
+    "calories": "352 calories",
+    "fat": "27 g",
+    "colesterol": "69 mg",
+    "sodium": "876 mg",
+    "potassium": "138 mg",
+    "carbs": "2.1 g",
+    "proteins": "26 g"
+  },
+  "Puff pastry": {
+    "calories": "558 calories",
+    "fat": "39 g",
+    "colesterol": "0 mg",
+    "sodium": "253 mg",
+    "potassium": "62 mg",
+    "carbs": "46 g",
+    "proteins": "7 g"
+  },
+  "Oyster sauce": {
+    "calories": "51 calories",
+    "fat": "0.3 g",
+    "colesterol": "0 mg",
+    "sodium": "2,733 mg",
+    "potassium": "54 mg",
+    "carbs": "11 g",
+    "proteins": "1.4 g"
+  },
+  "Egg noodles, cooked": {
+    "calories": "138 calories",
+    "fat": "2.1 g",
+    "colesterol": "29 mg",
+    "sodium": "5 mg",
+    "potassium": "38 mg",
+    "carbs": "25 g",
+    "proteins": "4.5 g"
+  },
+  "Sun Country Kretschmer Wheat Germ Cereals": {
+    "calories": "366 calories",
+    "fat": "10 g",
+    "colesterol": "0 mg",
+    "sodium": "6 mg",
+    "potassium": "1,097 mg",
+    "carbs": "49 g",
+    "proteins": "31 g"
+  },
+  "Tahini": {
+    "calories": "595 calories",
+    "fat": "54 g",
+    "colesterol": "0 mg",
+    "sodium": "115 mg",
+    "potassium": "414 mg",
+    "carbs": "21 g",
+    "proteins": "17 g"
+  },
+  "Couscous": {
+    "calories": "112 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "5 mg",
+    "potassium": "58 mg",
+    "carbs": "23 g",
+    "proteins": "3.8 g"
+  },
+  "Pepperoni": {
+    "calories": "10 calories",
+    "fat": "0.9 g",
+    "colesterol": "2.1 mg",
+    "sodium": "35.2 mg",
+    "potassium": "5.6 mg",
+    "carbs": "0 g",
+    "proteins": "0.5 g"
+  },
+  "Angel food cake": {
+    "calories": "257 calories",
+    "fat": "0.3 g",
+    "colesterol": "0 mg",
+    "sodium": "511 mg",
+    "potassium": "135 mg",
+    "carbs": "59 g",
+    "proteins": "6 g"
+  },
+  "Pork, chops, blade, with bone, broiled": {
+    "calories": "231 calories",
+    "fat": "14 g",
+    "colesterol": "78 mg",
+    "sodium": "74 mg",
+    "potassium": "315 mg",
+    "carbs": "0 g",
+    "proteins": "24 g"
+  },
+  "Juice": {
+    "calories": "54 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "2 mg",
+    "potassium": "42 mg",
+    "carbs": "13 g",
+    "proteins": "0.2 g"
+  },
+  "Frozen Vegetables": {
+    "calories": "60 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "271 mg",
+    "potassium": "169 mg",
+    "carbs": "13 g",
+    "proteins": "2.9 g"
+  },
+  "Brussels sprouts": {
+    "calories": "43 calories",
+    "fat": "0.3 g",
+    "colesterol": "0 mg",
+    "sodium": "25 mg",
+    "potassium": "389 mg",
+    "carbs": "9 g",
+    "proteins": "3.4 g"
+  },
+  "Parsnips": {
+    "calories": "75 calories",
+    "fat": "0.3 g",
+    "colesterol": "0 mg",
+    "sodium": "10 mg",
+    "potassium": "375 mg",
+    "carbs": "18 g",
+    "proteins": "1.2 g"
+  },
+  "Sauerkraut": {
+    "calories": "19 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "661 mg",
+    "potassium": "170 mg",
+    "carbs": "4.3 g",
+    "proteins": "0.9 g"
+  },
+  "Salmon, Atlantic, cooked": {
+    "calories": "206 calories",
+    "fat": "12 g",
+    "colesterol": "63 mg",
+    "sodium": "61 mg",
+    "potassium": "384 mg",
+    "carbs": "0 g",
+    "proteins": "22 g"
+  },
+  "Corn flakes": {
+    "calories": "357 calories",
+    "fat": "0.4 g",
+    "colesterol": "0 mg",
+    "sodium": "729 mg",
+    "potassium": "168 mg",
+    "carbs": "84 g",
+    "proteins": "8 g"
+  },
+  "Carrots, baby": {
+    "calories": "35 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "78 mg",
+    "potassium": "237 mg",
+    "carbs": "8 g",
+    "proteins": "0.6 g"
+  },
+  "Spinach": {
+    "calories": "23 calories",
+    "fat": "0.4 g",
+    "colesterol": "0 mg",
+    "sodium": "79 mg",
+    "potassium": "558 mg",
+    "carbs": "3.6 g",
+    "proteins": "2.9 g"
+  },
+  "Refried beans": {
+    "calories": "92 calories",
+    "fat": "1.2 g",
+    "colesterol": "0 mg",
+    "sodium": "449 mg",
+    "potassium": "336 mg",
+    "carbs": "15 g",
+    "proteins": "5 g"
+  },
+  "Pinto grah": {
+    "calories": "347 kcal",
+    "fat": "1,2 g",
+    "colesterol": "0 mg",
+    "sodium": "12 mg",
+    "potassium": "1.393 mg",
+    "carbs": "63 g",
+    "proteins": "21 g"
+  },
+  "Chia seeds": {
+    "calories": "486 calories",
+    "fat": "31 g",
+    "colesterol": "0 mg",
+    "sodium": "16 mg",
+    "potassium": "407 mg",
+    "carbs": "42 g",
+    "proteins": "17 g"
+  },
+  "Blackberries": {
+    "calories": "43 calories",
+    "fat": "0.5 g",
+    "colesterol": "0 mg",
+    "sodium": "1 mg",
+    "potassium": "162 mg",
+    "carbs": "10 g",
+    "proteins": "1.4 g"
+  },
+  "Romano cheese": {
+    "calories": "387 calories",
+    "fat": "27 g",
+    "colesterol": "104 mg",
+    "sodium": "1,200 mg",
+    "potassium": "86 mg",
+    "carbs": "3.6 g",
+    "proteins": "32 g"
+  },
+  "Tortilla chips, baked": {
+    "calories": "465 calories",
+    "fat": "15 g",
+    "colesterol": "3 mg",
+    "sodium": "856 mg",
+    "potassium": "272 mg",
+    "carbs": "73 g",
+    "proteins": "9 g"
+  },
+  "Turkey, breast, roasted": {
+    "calories": "189 calories",
+    "fat": "7 g",
+    "colesterol": "74 mg",
+    "sodium": "63 mg",
+    "potassium": "288 mg",
+    "carbs": "0 g",
+    "proteins": "29 g"
+  },
+  "Watercress": {
+    "calories": "11 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "41 mg",
+    "potassium": "330 mg",
+    "carbs": "1.3 g",
+    "proteins": "2.3 g"
+  },
+  "Flank steak": {
+    "calories": "192 calories",
+    "fat": "8 g",
+    "colesterol": "79 mg",
+    "sodium": "56 mg",
+    "potassium": "339 mg",
+    "carbs": "0 g",
+    "proteins": "28 g"
+  },
+  "Chocolate syrup": {
+    "calories": "279 calories",
+    "fat": "1.1 g",
+    "colesterol": "0 mg",
+    "sodium": "72 mg",
+    "potassium": "224 mg",
+    "carbs": "65 g",
+    "proteins": "2.1 g"
+  },
+  "Lentils, boiled": {
+    "calories": "116 calories",
+    "fat": "0.4 g",
+    "colesterol": "0 mg",
+    "sodium": "2 mg",
+    "potassium": "369 mg",
+    "carbs": "20 g",
+    "proteins": "9 g"
+  },
+  "Rice, white, short-grain, cooked": {
+    "calories": "130 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "0 mg",
+    "potassium": "26 mg",
+    "carbs": "29 g",
+    "proteins": "2.4 g"
+  },
+  "Pimiento, canned": {
+    "calories": "23 calories",
+    "fat": "0.3 g",
+    "colesterol": "0 mg",
+    "sodium": "14 mg",
+    "potassium": "158 mg",
+    "carbs": "5 g",
+    "proteins": "1.1 g"
+  },
+  "Marinara sauce": {
+    "calories": "51 calories",
+    "fat": "1.5 g",
+    "colesterol": "2 mg",
+    "sodium": "30 mg",
+    "potassium": "319 mg",
+    "carbs": "8 g",
+    "proteins": "1.4 g"
+  },
+  "Pumpkin Seeds": {
+    "calories": "446 calories",
+    "fat": "19 g",
+    "colesterol": "0 mg",
+    "sodium": "18 mg",
+    "potassium": "919 mg",
+    "carbs": "54 g",
+    "proteins": "19 g"
+  },
+  "Potato, red": {
+    "calories": "71 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "18 mg",
+    "potassium": "455 mg",
+    "carbs": "16 g",
+    "proteins": "1.9 g"
+  },
+  "Whipped Topping": {
+    "calories": "224 calories",
+    "fat": "13 g",
+    "colesterol": "2 mg",
+    "sodium": "72 mg",
+    "potassium": "101 mg",
+    "carbs": "24 g",
+    "proteins": "3 g"
+  },
+  "Oil, corn": {
+    "calories": "900 calories",
+    "fat": "100 g",
+    "colesterol": "0 mg",
+    "sodium": "0 mg",
+    "potassium": "",
+    "carbs": "0 g",
+    "proteins": "0 g"
+  },
+  "Jogurt": {
+    "calories": "58,8 kcal",
+    "fat": "0,4 g",
+    "colesterol": "5 mg",
+    "sodium": "36 mg",
+    "potassium": "141 mg",
+    "carbs": "3,6 g",
+    "proteins": "10 g"
+  },
+  "Cracker": {
+    "calories": "504 calories",
+    "fat": "26 g",
+    "colesterol": "0 mg",
+    "sodium": "748 mg",
+    "potassium": "111 mg",
+    "carbs": "61 g",
+    "proteins": "7 g"
+  },
+  "Anchovy, canned in oil": {
+    "calories": "210 calories",
+    "fat": "10 g",
+    "colesterol": "85 mg",
+    "sodium": "3,668 mg",
+    "potassium": "544 mg",
+    "carbs": "0 g",
+    "proteins": "29 g"
+  },
+  "Zante currant": {
+    "calories": "283 calories",
+    "fat": "0.3 g",
+    "colesterol": "0 mg",
+    "sodium": "8 mg",
+    "potassium": "892 mg",
+    "carbs": "74 g",
+    "proteins": "4.1 g"
+  },
+  "Pizza sauce, canned": {
+    "calories": "54 calories",
+    "fat": "1.2 g",
+    "colesterol": "3 mg",
+    "sodium": "185 mg",
+    "potassium": "354 mg",
+    "carbs": "9 g",
+    "proteins": "2.2 g"
+  },
+  "Lemonade, white": {
+    "calories": "40 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "4 mg",
+    "potassium": "15 mg",
+    "carbs": "10 g",
+    "proteins": "0.1 g"
+  },
+  "Club soda": {
+    "calories": "0 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "21 mg",
+    "potassium": "2 mg",
+    "carbs": "0 g",
+    "proteins": "0 g"
+  },
+  "Alfalfa sprouts": {
+    "calories": "23 calories",
+    "fat": "0.7 g",
+    "colesterol": "0 mg",
+    "sodium": "6 mg",
+    "potassium": "79 mg",
+    "carbs": "2.1 g",
+    "proteins": "4 g"
+  },
+  "Maraschino Cherries": {
+    "calories": "165 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "4 mg",
+    "potassium": "21 mg",
+    "carbs": "42 g",
+    "proteins": "0.2 g"
+  },
+  "Bacon fat, cooked": {
+    "calories": "898 calories",
+    "fat": "100 g",
+    "colesterol": "97 mg",
+    "sodium": "27 mg",
+    "potassium": "15 mg",
+    "carbs": "0 g",
+    "proteins": "0.1 g"
+  },
+  "Okra": {
+    "calories": "33 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "7 mg",
+    "potassium": "299 mg",
+    "carbs": "7 g",
+    "proteins": "1.9 g"
+  },
+  "White cake mix": {
+    "calories": "372 calories",
+    "fat": "3.7 g",
+    "colesterol": "0 mg",
+    "sodium": "693 mg",
+    "potassium": "62 mg",
+    "carbs": "81 g",
+    "proteins": "4.1 g"
+  },
+  "Ginger Ale": {
+    "calories": "34 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "7 mg",
+    "potassium": "1 mg",
+    "carbs": "9 g",
+    "proteins": "0 g"
+  },
+  "Meat": {
+    "calories": "143 calories",
+    "fat": "3.5 g",
+    "colesterol": "73 mg",
+    "sodium": "57 mg",
+    "potassium": "421 mg",
+    "carbs": "0 g",
+    "proteins": "26 g"
+  },
+  "Cranberry juice, unsweetened": {
+    "calories": "46 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "2 mg",
+    "potassium": "77 mg",
+    "carbs": "12 g",
+    "proteins": "0.4 g"
+  },
+  "Puff pastry, frozen": {
+    "calories": "551 calories",
+    "fat": "38 g",
+    "colesterol": "0 mg",
+    "sodium": "249 mg",
+    "potassium": "61 mg",
+    "carbs": "45 g",
+    "proteins": "7 g"
+  },
+  "Plums": {
+    "calories": "46 calories",
+    "fat": "0.3 g",
+    "colesterol": "0 mg",
+    "sodium": "0 mg",
+    "potassium": "157 mg",
+    "carbs": "11 g",
+    "proteins": "0.7 g"
+  },
+  "Pie crust, graham cracker, baked": {
+    "calories": "494 calories",
+    "fat": "25 g",
+    "colesterol": "0 mg",
+    "sodium": "571 mg",
+    "potassium": "88 mg",
+    "carbs": "65 g",
+    "proteins": "4.2 g"
+  },
+  "Navy beans, sprouted, raw": {
+    "calories": "67 calories",
+    "fat": "0.7 g",
+    "colesterol": "0 mg",
+    "sodium": "13 mg",
+    "potassium": "307 mg",
+    "carbs": "13 g",
+    "proteins": "6 g"
+  },
+  "Macadamia nuts": {
+    "calories": "718 calories",
+    "fat": "76 g",
+    "colesterol": "0 mg",
+    "sodium": "5 mg",
+    "potassium": "368 mg",
+    "carbs": "14 g",
+    "proteins": "8 g"
+  },
+  "Mussels, blue, cooked": {
+    "calories": "172 calories",
+    "fat": "4.5 g",
+    "colesterol": "56 mg",
+    "sodium": "369 mg",
+    "potassium": "268 mg",
+    "carbs": "7 g",
+    "proteins": "24 g"
+  },
+  "Prunes": {
+    "calories": "240 calories",
+    "fat": "0.4 g",
+    "colesterol": "0 mg",
+    "sodium": "2 mg",
+    "potassium": "732 mg",
+    "carbs": "64 g",
+    "proteins": "2.2 g"
+  },
+  "Instant Coffee": {
+    "calories": "2 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "4 mg",
+    "potassium": "30 mg",
+    "carbs": "0.3 g",
+    "proteins": "0.1 g"
+  },
+  "Suncokretovo ulje": {
+    "calories": "884,1 kcal",
+    "fat": "100 g",
+    "colesterol": "0 mg",
+    "sodium": "0 mg",
+    "potassium": "",
+    "carbs": "0 g",
+    "proteins": "0 g"
+  },
+  "Croutons, plain": {
+    "calories": "407 calories",
+    "fat": "7 g",
+    "colesterol": "0 mg",
+    "sodium": "698 mg",
+    "potassium": "124 mg",
+    "carbs": "74 g",
+    "proteins": "12 g"
+  },
+  "Rice flour": {
+    "calories": "366 calories",
+    "fat": "1.4 g",
+    "colesterol": "0 mg",
+    "sodium": "0 mg",
+    "potassium": "76 mg",
+    "carbs": "80 g",
+    "proteins": "6 g"
+  },
+  "Pork, shoulder (Boston butt), roasted": {
+    "calories": "269 calories",
+    "fat": "19 g",
+    "colesterol": "86 mg",
+    "sodium": "67 mg",
+    "potassium": "332 mg",
+    "carbs": "0 g",
+    "proteins": "23 g"
+  },
+  "Black pepper": {
+    "calories": "251 calories",
+    "fat": "3.3 g",
+    "colesterol": "0 mg",
+    "sodium": "20 mg",
+    "potassium": "1,329 mg",
+    "carbs": "64 g",
+    "proteins": "10 g"
+  },
+  "Blueberries": {
+    "calories": "57 calories",
+    "fat": "0.3 g",
+    "colesterol": "0 mg",
+    "sodium": "1 mg",
+    "potassium": "77 mg",
+    "carbs": "14 g",
+    "proteins": "0.7 g"
+  },
+  "Caramel": {
+    "calories": "382 calories",
+    "fat": "8 g",
+    "colesterol": "7 mg",
+    "sodium": "245 mg",
+    "potassium": "214 mg",
+    "carbs": "77 g",
+    "proteins": "4.6 g"
+  },
+  "Shiitake mushroom": {
+    "calories": "34 calories",
+    "fat": "0.5 g",
+    "colesterol": "",
+    "sodium": "9 mg",
+    "potassium": "304 mg",
+    "carbs": "7 g",
+    "proteins": "2.2 g"
+  },
+  "Pace Enchilada Sauce": {
+    "calories": "40 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "867 mg",
+    "potassium": "8 g",
+    "carbs": "1.7 g"
+  },
+  "Milk chocolate": {
+    "calories": "535 calories",
+    "fat": "30 g",
+    "colesterol": "23 mg",
+    "sodium": "79 mg",
+    "potassium": "372 mg",
+    "carbs": "59 g",
+    "proteins": "8 g"
+  },
+  "Chili con carne": {
+    "calories": "101 calories",
+    "fat": "3.3 g",
+    "colesterol": "53 mg",
+    "sodium": "398 mg",
+    "potassium": "273 mg",
+    "carbs": "9 g",
+    "proteins": "10 g"
+  },
+  "Almond Butter": {
+    "calories": "614 calories",
+    "fat": "56 g",
+    "colesterol": "0 mg",
+    "sodium": "7 mg",
+    "potassium": "748 mg",
+    "carbs": "19 g",
+    "proteins": "21 g"
+  },
+  "Vegetable": {
+    "calories": "65 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "35 mg",
+    "potassium": "169 mg",
+    "carbs": "13 g",
+    "proteins": "2.9 g"
+  },
+  "Sugar Substitute": {
+    "calories": "347 calories",
+    "fat": "0 g",
+    "colesterol": "",
+    "sodium": "572 mg",
+    "potassium": "39 mg",
+    "carbs": "85 g",
+    "proteins": "2.1 g"
+  },
+  "Red cabbage, raw": {
+    "calories": "31 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "27 mg",
+    "potassium": "243 mg",
+    "carbs": "7 g",
+    "proteins": "1.4 g"
+  },
+  "Tomato purée": {
+    "calories": "38 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "28 mg",
+    "potassium": "439 mg",
+    "carbs": "9 g",
+    "proteins": "1.7 g"
+  },
+  "Teriyaki sauce": {
+    "calories": "89 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "3,833 mg",
+    "potassium": "225 mg",
+    "carbs": "16 g",
+    "proteins": "6 g"
+  },
+  "Salmon, Atlantic, raw": {
+    "calories": "824 calories",
+    "fat": "54 g",
+    "colesterol": "217.8 mg",
+    "sodium": "233.6 mg",
+    "potassium": "1,437.4 mg",
+    "carbs": "0 g",
+    "proteins": "80 g"
+  },
+  "Grapeseed oil": {
+    "calories": "884 calories",
+    "fat": "100 g",
+    "colesterol": "0 mg",
+    "sodium": "0 mg",
+    "potassium": "",
+    "carbs": "0 g",
+    "proteins": "0 g"
+  },
+  "Powdered milk": {
+    "calories": "496 calories",
+    "fat": "27 g",
+    "colesterol": "97 mg",
+    "sodium": "371 mg",
+    "potassium": "1,330 mg",
+    "carbs": "38 g",
+    "proteins": "26 g"
+  },
+  "Turnip": {
+    "calories": "28 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "67 mg",
+    "potassium": "191 mg",
+    "carbs": "6 g",
+    "proteins": "0.9 g"
+  },
+  "Chestnuts, European, boiled and steamed": {
+    "calories": "131 calories",
+    "fat": "1.4 g",
+    "colesterol": "0 mg",
+    "sodium": "27 mg",
+    "potassium": "715 mg",
+    "carbs": "28 g",
+    "proteins": "2 g"
+  },
+  "Coconut cream": {
+    "calories": "330 calories",
+    "fat": "35 g",
+    "colesterol": "0 mg",
+    "sodium": "4 mg",
+    "potassium": "325 mg",
+    "carbs": "7 g",
+    "proteins": "3.6 g"
+  },
+  "Potato wedges": {
+    "calories": "123 calories",
+    "fat": "2.2 g",
+    "colesterol": "0 mg",
+    "sodium": "49 mg",
+    "potassium": "394 mg",
+    "carbs": "26 g",
+    "proteins": "2.7 g"
+  },
+
+  "Kashi Three Cheese Penne": {
+    "calories": "118 calories",
+    "fat": "4 g",
+    "colesterol": "12 mg",
+    "sodium": "248 mg",
+    "potassium": "122 mg",
+    "carbs": "17 g",
+    "proteins": "6 g"
+  },
+  "Watermelon": {
+    "calories": "30 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "1 mg",
+    "potassium": "112 mg",
+    "carbs": "8 g",
+    "proteins": "0.6 g"
+  },
+  
+  "Creamed corn": {
+    "calories": "72 calories",
+    "fat": "0.4 g",
+    "colesterol": "0 mg",
+    "sodium": "285 mg",
+    "potassium": "134 mg",
+    "carbs": "18 g",
+    "proteins": "1.7 g"
+  },
+  "Flaxseed": {
+    "calories": "534 calories",
+    "fat": "42 g",
+    "colesterol": "0 mg",
+    "sodium": "30 mg",
+    "potassium": "813 mg",
+    "carbs": "29 g",
+    "proteins": "18 g"
+  },
+  "Cherry pie": {
+    "calories": "270 calories",
+    "fat": "12 g",
+    "colesterol": "0 mg",
+    "sodium": "191 mg",
+    "potassium": "77 mg",
+    "carbs": "39 g",
+    "proteins": "2.8 g"
+  },
+  
+  "Brisket": {
+    "calories": "155 calories",
+    "fat": "7 g",
+    "colesterol": "62 mg",
+    "sodium": "79 mg",
+    "potassium": "330 mg",
+    "carbs": "0 g",
+    "proteins": "21 g"
+  },
+  "Bacon bits": {
+    "calories": "475 calories",
+    "fat": "26 g",
+    "colesterol": "0 mg",
+    "sodium": "1,770 mg",
+    "potassium": "145 mg",
+    "carbs": "29 g",
+    "proteins": "32 g"
+  },
+  "Scallops, steamed": {
+    "calories": "111 calories",
+    "fat": "0.8 g",
+    "colesterol": "41 mg",
+    "sodium": "667 mg",
+    "potassium": "314 mg",
+    "carbs": "5 g",
+    "proteins": "21 g"
+  },
+  
+  "Sake": {
+    "calories": "134 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "2 mg",
+    "potassium": "25 mg",
+    "carbs": "5 g",
+    "proteins": "0.5 g"
+  },
+  "Soy milk": {
+    "calories": "54 calories",
+    "fat": "1.8 g",
+    "colesterol": "0 mg",
+    "sodium": "51 mg",
+    "potassium": "118 mg",
+    "carbs": "6 g",
+    "proteins": "3.3 g"
+  },
+  
+  "Fruit cocktail": {
+    "calories": "46 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "4 mg",
+    "potassium": "95 mg",
+    "carbs": "12 g",
+    "proteins": "0.5 g"
+  },
+  "Pumpkin seeds, dried": {
+    "calories": "559 calories",
+    "fat": "49 g",
+    "colesterol": "0 mg",
+    "sodium": "7 mg",
+    "potassium": "809 mg",
+    "carbs": "11 g",
+    "proteins": "30 g"
+  },
+  "Vanilla frosting": {
+    "calories": "418 calories",
+    "fat": "16 g",
+    "colesterol": "0 mg",
+    "sodium": "184 mg",
+    "potassium": "34 mg",
+    "carbs": "68 g",
+    "proteins": "0 g"
+  },
+  
+  "Fontina": {
+    "calories": "389 calories",
+    "fat": "31 g",
+    "colesterol": "116 mg",
+    "sodium": "800 mg",
+    "potassium": "64 mg",
+    "carbs": "1.6 g",
+    "proteins": "26 g"
+  },
+  
+  "Potato chips": {
+    "calories": "536 calories",
+    "fat": "35 g",
+    "colesterol": "0 mg",
+    "sodium": "8 mg",
+    "potassium": "1,275 mg",
+    "carbs": "53 g",
+    "proteins": "7 g"
+  },
+  "Cantaloupe": {
+    "calories": "34 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "16 mg",
+    "potassium": "267 mg",
+    "carbs": "8 g",
+    "proteins": "0.8 g"
+  },
+  
+  "Stuffing Mix": {
+    "calories": "386 calories",
+    "fat": "3.4 g",
+    "colesterol": "1 mg",
+    "sodium": "1,405 mg",
+    "potassium": "246 mg",
+    "carbs": "76 g",
+    "proteins": "11 g"
+  },
+  
+  "Barley, hulled": {
+    "calories": "354 calories",
+    "fat": "2.3 g",
+    "colesterol": "0 mg",
+    "sodium": "12 mg",
+    "potassium": "452 mg",
+    "carbs": "73 g",
+    "proteins": "12 g"
+  },
+  "Teletina": {
+    "calories": "172,1 kcal",
+    "fat": "8 g",
+    "colesterol": "103 mg",
+    "sodium": "83 mg",
+    "potassium": "337 mg",
+    "carbs": "0 g",
+    "proteins": "24 g"
+  },
+  "Wine": {
+    "calories": "83 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "5 mg",
+    "potassium": "99 mg",
+    "carbs": "2.7 g",
+    "proteins": "0.1 g"
+  },
+  "Mustard greens": {
+    "calories": "27 calories",
+    "fat": "0.4 g",
+    "colesterol": "0 mg",
+    "sodium": "20 mg",
+    "potassium": "384 mg",
+    "carbs": "4.7 g",
+    "proteins": "2.9 g"
+  },
+  "Pork and beans": {
+    "calories": "63 calories",
+    "fat": "2.2 g",
+    "colesterol": "1 mg",
+    "sodium": "349 mg",
+    "potassium": "147 mg",
+    "carbs": "8 g",
+    "proteins": "2.9 g"
+  },
+  "Acorn squash, raw": {
+    "calories": "40 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "3 mg",
+    "potassium": "347 mg",
+    "carbs": "10 g",
+    "proteins": "0.8 g"
+  },
+  "Chow mein": {
+    "calories": "459 calories",
+    "fat": "18 g",
+    "colesterol": "0 mg",
+    "sodium": "847 mg",
+    "potassium": "120 mg",
+    "carbs": "67 g",
+    "proteins": "11 g"
+  },
+  
+  "Lettuce, iceberg": {
+    "calories": "14 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "10 mg",
+    "potassium": "141 mg",
+    "carbs": "3 g",
+    "proteins": "0.9 g"
+  },
+  "Jicama": {
+    "calories": "38 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "4 mg",
+    "potassium": "150 mg",
+    "carbs": "9 g",
+    "proteins": "0.7 g"
+  },
+  "Cranberry sauce": {
+    "calories": "151 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "29 mg",
+    "potassium": "26 mg",
+    "carbs": "39 g",
+    "proteins": "0.2 g"
+  },
+  "Pomegranate juice": {
+    "calories": "54 calories",
+    "fat": "0.3 g",
+    "colesterol": "0 mg",
+    "sodium": "9 mg",
+    "potassium": "214 mg",
+    "carbs": "13 g",
+    "proteins": "0.2 g"
+  },
+  "Marshmallow Spread": {
+    "calories": "322 calories",
+    "fat": "0.3 g",
+    "colesterol": "0 mg",
+    "sodium": "80 mg",
+    "potassium": "5 mg",
+    "carbs": "79 g",
+    "proteins": "0.8 g"
+  },
+ 
+  "Peppers, yellow": {
+    "calories": "27 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "2 mg",
+    "potassium": "212 mg",
+    "carbs": "6 g",
+    "proteins": "1 g"
+  },
+  
+  "Bread, rye": {
+    "calories": "259 calories",
+    "fat": "3.3 g",
+    "colesterol": "0 mg",
+    "sodium": "603 mg",
+    "potassium": "166 mg",
+    "carbs": "48 g",
+    "proteins": "9 g"
+  },
+  
+  "Wild rice, raw": {
+    "calories": "357 calories",
+    "fat": "1.1 g",
+    "colesterol": "0 mg",
+    "sodium": "7 mg",
+    "potassium": "427 mg",
+    "carbs": "75 g",
+    "proteins": "15 g"
+  },
+  "Pickle relish, sweet": {
+    "calories": "130 calories",
+    "fat": "0.5 g",
+    "colesterol": "0 mg",
+    "sodium": "811 mg",
+    "potassium": "25 mg",
+    "carbs": "35 g",
+    "proteins": "0.4 g"
+  },
+  "Lima beans, large, boiled": {
+    "calories": "115 calories",
+    "fat": "0.4 g",
+    "colesterol": "0 mg",
+    "sodium": "2 mg",
+    "potassium": "508 mg",
+    "carbs": "21 g",
+    "proteins": "8 g"
+  },
+  "Fish stock": {
+    "calories": "17 calories",
+    "fat": "0.8 g",
+    "colesterol": "1 mg",
+    "sodium": "156 mg",
+    "potassium": "144 mg",
+    "carbs": "0 g",
+    "proteins": "2.3 g"
+  },
+  "Chuck roast": {
+    "calories": "295 calories",
+    "fat": "19 g",
+    "colesterol": "119 mg",
+    "sodium": "50 mg",
+    "potassium": "243 mg",
+    "carbs": "0 g",
+    "proteins": "30 g"
+  },
+  
+  "Steak": {
+    "calories": "271 calories",
+    "fat": "19 g",
+    "colesterol": "78 mg",
+    "sodium": "58 mg",
+    "potassium": "279 mg",
+    "carbs": "0 g",
+    "proteins": "25 g"
+  },
+  
+  "Smoked Salmon": {
+    "calories": "117 calories",
+    "fat": "4.3 g",
+    "colesterol": "23 mg",
+    "sodium": "784 mg",
+    "potassium": "175 mg",
+    "carbs": "0 g",
+    "proteins": "18 g"
+  },
+  "Corn chip": {
+    "calories": "518 calories",
+    "fat": "28 g",
+    "colesterol": "0 mg",
+    "sodium": "545 mg",
+    "potassium": "135 mg",
+    "carbs": "63 g",
+    "proteins": "6 g"
+  },
+  "Ramen noodle soup": {
+    "calories": "436 calories",
+    "fat": "16 g",
+    "colesterol": "0 mg",
+    "sodium": "2,036 mg",
+    "potassium": "179 mg",
+    "carbs": "63 g",
+    "proteins": "10 g"
+  },
+  "Salami, beef and pork, cooked": {
+    "calories": "336 calories",
+    "fat": "26 g",
+    "colesterol": "89 mg",
+    "sodium": "1,740 mg",
+    "potassium": "316 mg",
+    "carbs": "2.4 g",
+    "proteins": "22 g"
+  },
+  
+  "Salt pork": {
+    "calories": "748 calories",
+    "fat": "81 g",
+    "colesterol": "86 mg",
+    "sodium": "2,684 mg",
+    "potassium": "66 mg",
+    "carbs": "0 g",
+    "proteins": "5 g"
+  },
+  "Rye flour": {
+    "calories": "349 calories",
+    "fat": "1.5 g",
+    "colesterol": "0 mg",
+    "sodium": "2 mg",
+    "potassium": "374 mg",
+    "carbs": "75 g",
+    "proteins": "11 g"
+  },
+  
+  "Fish fillet": {
+    "calories": "232 calories",
+    "fat": "12 g",
+    "colesterol": "34 mg",
+    "sodium": "532 mg",
+    "potassium": "320 mg",
+    "carbs": "17 g",
+    "proteins": "15 g"
+  },
+  "Spaghetti Squash": {
+    "calories": "31 calories",
+    "fat": "0.6 g",
+    "colesterol": "0 mg",
+    "sodium": "17 mg",
+    "potassium": "108 mg",
+    "carbs": "7 g",
+    "proteins": "0.6 g"
+  },
+  "Safflower Oil": {
+    "calories": "884 calories",
+    "fat": "100 g",
+    "colesterol": "0 mg",
+    "sodium": "0 mg",
+    "potassium": "",
+    "carbs": "0 g",
+    "proteins": "0 g"
+  },
+  "Shortbread cookie": {
+    "calories": "502 calories",
+    "fat": "24 g",
+    "colesterol": "20 mg",
+    "sodium": "524 mg",
+    "potassium": "100 mg",
+    "carbs": "65 g",
+    "proteins": "6 g"
+  },
+  
+  "Bread, whole-wheat": {
+    "calories": "247 calories",
+    "fat": "3.4 g",
+    "colesterol": "0 mg",
+    "sodium": "400 mg",
+    "potassium": "248 mg",
+    "carbs": "41 g",
+    "proteins": "13 g"
+  },
+  "Walnut oil": {
+    "calories": "884 calories",
+    "fat": "100 g",
+    "colesterol": "0 mg",
+    "sodium": "0 mg",
+    "potassium": "",
+    "carbs": "0 g",
+    "proteins": "0 g"
+  },
+  
+  "Spirit": {
+    "calories": "250 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "1 mg",
+    "potassium": "2 mg",
+    "carbs": "0.1 g",
+    "proteins": "0 g"
+  },
+ 
+  "Grits": {
+    "calories": "59 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "223 mg",
+    "potassium": "21 mg",
+    "carbs": "13 g",
+    "proteins": "1.4 g"
+  },
+  
+  "French onion soup": {
+    "calories": "23 calories",
+    "fat": "0.7 g",
+    "colesterol": "0 mg",
+    "sodium": "423 mg",
+    "potassium": "28 mg",
+    "carbs": "3.3 g",
+    "proteins": "1.5 g"
+  },
+  "Honey mustard": {
+    "calories": "464 calories",
+    "fat": "41 g",
+    "colesterol": "29 mg",
+    "sodium": "650 mg",
+    "potassium": "20 mg",
+    "carbs": "23 g",
+    "proteins": "0.9 g"
+  },
+  "Potato Starch": {
+    "calories": "357 calories",
+    "fat": "0.3 g",
+    "colesterol": "0 mg",
+    "sodium": "55 mg",
+    "potassium": "1,001 mg",
+    "carbs": "83 g",
+    "proteins": "7 g"
+  },
+  "Coffee liqueur, 53 proof": {
+    "calories": "326 calories",
+    "fat": "0.3 g",
+    "colesterol": "0 mg",
+    "sodium": "8 mg",
+    "potassium": "30 mg",
+    "carbs": "47 g",
+    "proteins": "0.1 g"
+  },
+  "Adobo sauce": {
+    "calories": "271 calories",
+    "fat": "21 g",
+    "colesterol": "0 mg",
+    "sodium": "17,152 mg",
+    "potassium": "187 mg",
+    "carbs": "19 g",
+    "proteins": "2 g"
+  },
+  
+  "Bulgur, dry": {
+    "calories": "342 calories",
+    "fat": "1.3 g",
+    "colesterol": "0 mg",
+    "sodium": "17 mg",
+    "potassium": "410 mg",
+    "carbs": "76 g",
+    "proteins": "12 g"
+  },
+  
+  "Grapes, Thompson seedless": {
+    "calories": "40 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "6 mg",
+    "potassium": "107 mg",
+    "carbs": "10 g",
+    "proteins": "0.5 g"
+  },
+  "Tapioca pudding, fat free": {
+    "calories": "130 calories",
+    "fat": "3.9 g",
+    "colesterol": "1 mg",
+    "sodium": "145 mg",
+    "potassium": "92 mg",
+    "carbs": "22 g",
+    "proteins": "2 g"
+  },
+  "Squid, fried": {
+    "calories": "175 calories",
+    "fat": "7 g",
+    "colesterol": "260 mg",
+    "sodium": "306 mg",
+    "potassium": "279 mg",
+    "carbs": "8 g",
+    "proteins": "18 g"
+  },
+  "Cornbread": {
+    "calories": "330 calories",
+    "fat": "10 g",
+    "colesterol": "57 mg",
+    "sodium": "599 mg",
+    "potassium": "133 mg",
+    "carbs": "54 g",
+    "proteins": "7 g"
+  },
+  
+  "Tortellini, cheese": {
+    "calories": "307 calories",
+    "fat": "7 g",
+    "colesterol": "42 mg",
+    "sodium": "406 mg",
+    "potassium": "89 mg",
+    "carbs": "47 g",
+    "proteins": "14 g"
+  },
+  "Saltines": {
+    "calories": "421 calories",
+    "fat": "9 g",
+    "colesterol": "0 mg",
+    "sodium": "1,021 mg",
+    "potassium": "159 mg",
+    "carbs": "74 g",
+    "proteins": "10 g"
+  },
+  "Collards, raw": {
+    "calories": "32 calories",
+    "fat": "0.6 g",
+    "colesterol": "0 mg",
+    "sodium": "17 mg",
+    "potassium": "213 mg",
+    "carbs": "5 g",
+    "proteins": "3 g"
+  },
+  
+  "Queso blanco": {
+    "calories": "310 calories",
+    "fat": "24 g",
+    "colesterol": "70 mg",
+    "sodium": "704 mg",
+    "potassium": "126 mg",
+    "carbs": "2.5 g",
+    "proteins": "20 g"
+  },
+  
+  "Meatball": {
+    "calories": "196,9 kcal",
+    "fat": "9 g",
+    "colesterol": "0 mg",
+    "sodium": "550 mg",
+    "potassium": "180 mg",
+    "carbs": "8 g",
+    "proteins": "21 g"
+  },
+  
+  "Turkey Bacon": {
+    "calories": "382 calories",
+    "fat": "28 g",
+    "colesterol": "98 mg",
+    "sodium": "2,285 mg",
+    "potassium": "395 mg",
+    "carbs": "3.1 g",
+    "proteins": "30 g"
+  },
+  
+  "Endive": {
+    "calories": "17 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "22 mg",
+    "potassium": "314 mg",
+    "carbs": "3.4 g",
+    "proteins": "1.3 g"
+  },
+ 
+  "Salsa verde": {
+    "calories": "38 calories",
+    "fat": "0.9 g",
+    "colesterol": "0 mg",
+    "sodium": "600 mg",
+    "potassium": "259 mg",
+    "carbs": "6 g",
+    "proteins": "1.1 g"
+  },
+  
+  "Apricot nectar": {
+    "calories": "56 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "3 mg",
+    "potassium": "114 mg",
+    "carbs": "14 g",
+    "proteins": "0.4 g"
+  },
+  
+  "Mixed nuts, oil roasted": {
+    "calories": "607 calories",
+    "fat": "54 g",
+    "colesterol": "0 mg",
+    "sodium": "5 mg",
+    "potassium": "632 mg",
+    "carbs": "21 g",
+    "proteins": "20 g"
+  },
+  
+  "Vinaigrette Dressing": {
+    "calories": "449 calories",
+    "fat": "50 g",
+    "colesterol": "0 mg",
+    "sodium": "1 mg",
+    "potassium": "8 mg",
+    "carbs": "2.5 g",
+    "proteins": "0 g"
+  },
+  
+  "Cereal": {
+    "calories": "379 calories",
+    "fat": "7 g",
+    "colesterol": "0 mg",
+    "sodium": "6 mg",
+    "potassium": "362 mg",
+    "carbs": "68 g",
+    "proteins": "13 g"
+  },
+  "Tilapia, cooked": {
+    "calories": "129 calories",
+    "fat": "2.7 g",
+    "colesterol": "57 mg",
+    "sodium": "56 mg",
+    "potassium": "380 mg",
+    "carbs": "0 g",
+    "proteins": "26 g"
+  },
+  
+  "Lunch meat": {
+    "calories": "353 calories",
+    "fat": "32 g",
+    "colesterol": "55 mg",
+    "sodium": "1,293 mg",
+    "potassium": "202 mg",
+    "carbs": "2.3 g",
+    "proteins": "13 g"
+  },
+  
+  "Hominy, white": {
+    "calories": "72 calories",
+    "fat": "0.9 g",
+    "colesterol": "0 mg",
+    "sodium": "345 mg",
+    "potassium": "9 mg",
+    "carbs": "14 g",
+    "proteins": "1.5 g"
+  },
+  "Chocolate pudding": {
+    "calories": "142 calories",
+    "fat": "4.6 g",
+    "colesterol": "1 mg",
+    "sodium": "152 mg",
+    "potassium": "184 mg",
+    "carbs": "23 g",
+    "proteins": "2.1 g"
+  },
+  
+  "Ranch dressing": {
+    "calories": "484 calories",
+    "fat": "51 g",
+    "colesterol": "33 mg",
+    "sodium": "1,094 mg",
+    "potassium": "62 mg",
+    "carbs": "7 g",
+    "proteins": "1 g"
+  },
+  
+  "Hummus, commercial": {
+    "calories": "166 calories",
+    "fat": "10 g",
+    "colesterol": "0 mg",
+    "sodium": "379 mg",
+    "potassium": "228 mg",
+    "carbs": "14 g",
+    "proteins": "8 g"
+  },
+  "Coconut Water": {
+    "calories": "19 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "105 mg",
+    "potassium": "250 mg",
+    "carbs": "3.7 g",
+    "proteins": "0.7 g"
+  },
+  
+  "Bread, wheat, toasted": {
+    "calories": "313 calories",
+    "fat": "4.3 g",
+    "colesterol": "0 mg",
+    "sodium": "601 mg",
+    "potassium": "223 mg",
+    "carbs": "56 g",
+    "proteins": "13 g"
+  },
+  "Edamame, cooked": {
+    "calories": "122 calories",
+    "fat": "5 g",
+    "colesterol": "6 mg",
+    "sodium": "436 mg",
+    "potassium": "10 g",
+    "carbs": "11 g",
+    "proteins": ""
+  },
+  
+  "Masa": {
+    "calories": "365,2 kcal",
+    "fat": "3,9 g",
+    "colesterol": "0 mg",
+    "sodium": "5 mg",
+    "potassium": "263 mg",
+    "carbs": "76 g",
+    "proteins": "9 g"
+  },
+  
+  "Muenster cheese": {
+    "calories": "368 calories",
+    "fat": "30 g",
+    "colesterol": "96 mg",
+    "sodium": "628 mg",
+    "potassium": "134 mg",
+    "carbs": "1.1 g",
+    "proteins": "23 g"
+  },
+  
+  "Eggnog": {
+    "calories": "88 calories",
+    "fat": "4.2 g",
+    "colesterol": "59 mg",
+    "sodium": "54 mg",
+    "potassium": "165 mg",
+    "carbs": "8 g",
+    "proteins": "4.6 g"
+  },
+ 
+  "Plantains": {
+    "calories": "122 calories",
+    "fat": "0.4 g",
+    "colesterol": "0 mg",
+    "sodium": "4 mg",
+    "potassium": "499 mg",
+    "carbs": "32 g",
+    "proteins": "1.3 g"
+  },
+  
+  "Kraft Cheez Whiz Light": {
+    "calories": "215 calories",
+    "fat": "10 g",
+    "colesterol": "35 mg",
+    "sodium": "1,705 mg",
+    "potassium": "297 mg",
+    "carbs": "16 g",
+    "proteins": "16 g"
+  },
+  "Pace Pico De Gallo": {
+    "calories": "31 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "469 mg",
+    "potassium": "9 g",
+    "carbs": "0 g"
+  },
+  "Canadian bacon, unheated": {
+    "calories": "157 calories",
+    "fat": "7 g",
+    "colesterol": "50 mg",
+    "sodium": "904 mg",
+    "potassium": "344 mg",
+    "carbs": "1.7 g",
+    "proteins": "21 g"
+  },
+  "Ice cream, chocolate": {
+    "calories": "216 calories",
+    "fat": "11 g",
+    "colesterol": "34 mg",
+    "sodium": "76 mg",
+    "potassium": "249 mg",
+    "carbs": "28 g",
+    "proteins": "3.8 g"
+  },
+  "Limeade": {
+    "calories": "52 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "3 mg",
+    "potassium": "10 mg",
+    "carbs": "14 g",
+    "proteins": "0 g"
+  },
+  
+  "Summer savory": {
+    "calories": "272 calories",
+    "fat": "6 g",
+    "colesterol": "0 mg",
+    "sodium": "24 mg",
+    "potassium": "1,051 mg",
+    "carbs": "69 g",
+    "proteins": "7 g"
+  },
+  "Chocolate bar": {
+    "calories": "556 calories",
+    "fat": "32 g",
+    "colesterol": "5 mg",
+    "sodium": "6 mg",
+    "potassium": "502 mg",
+    "carbs": "60 g",
+    "proteins": "6 g"
+  },
+  "Deer, roasted": {
+    "calories": "158 calories",
+    "fat": "3.2 g",
+    "colesterol": "112 mg",
+    "sodium": "54 mg",
+    "potassium": "335 mg",
+    "carbs": "0 g",
+    "proteins": "30 g"
+  },
+ 
+  "Avocado Oil": {
+    "calories": "884 calories",
+    "fat": "100 g",
+    "colesterol": "0 mg",
+    "sodium": "",
+    "potassium": "0 g",
+    "carbs": "0 g"
+  },
+  
+  "Pork belly, raw": {
+    "calories": "518 calories",
+    "fat": "53 g",
+    "colesterol": "72 mg",
+    "sodium": "32 mg",
+    "potassium": "185 mg",
+    "carbs": "0 g",
+    "proteins": "9 g"
+  },
+  "Thousand island dressing": {
+    "calories": "370 calories",
+    "fat": "35 g",
+    "colesterol": "26 mg",
+    "sodium": "863 mg",
+    "potassium": "107 mg",
+    "carbs": "15 g",
+    "proteins": "1.1 g"
+  },
+  
+  "Pectin": {
+    "calories": "325 calories",
+    "fat": "0.3 g",
+    "colesterol": "0 mg",
+    "sodium": "200 mg",
+    "potassium": "7 mg",
+    "carbs": "90 g",
+    "proteins": "0.3 g"
+  },
+  "Miso": {
+    "calories": "199 calories",
+    "fat": "6 g",
+    "colesterol": "0 mg",
+    "sodium": "3,728 mg",
+    "potassium": "210 mg",
+    "carbs": "26 g",
+    "proteins": "12 g"
+  },
+  "Onion rings, breaded and fried": {
+    "calories": "411 calories",
+    "fat": "25 g",
+    "colesterol": "776 mg",
+    "sodium": "167 mg",
+    "potassium": "44 g",
+    "carbs": "3.9 g"
+  },
+  
+  "Campbell's Healthy Request Tomato Condensed Soup": {
+    "calories": "73 calories",
+    "fat": "1.2 g",
+    "colesterol": "0 mg",
+    "sodium": "331 mg",
+    "potassium": "565 mg",
+    "carbs": "14 g",
+    "proteins": "1.6 g"
+  },
+ 
+  "Sweet corn, white, boiled": {
+    "calories": "98 calories",
+    "fat": "1.4 g",
+    "colesterol": "0 mg",
+    "sodium": "3 mg",
+    "potassium": "252 mg",
+    "carbs": "22 g",
+    "proteins": "3.3 g"
+  },
+  "Mixed salad greens": {
+    "calories": "45 calories",
+    "fat": "1.1 g",
+    "colesterol": "76 mg",
+    "sodium": "207 mg",
+    "potassium": "171 mg",
+    "carbs": "2.8 g",
+    "proteins": "6 g"
+  },
+  "Blueberry pie": {
+    "calories": "245 calories",
+    "fat": "12 g",
+    "colesterol": "0 mg",
+    "sodium": "185 mg",
+    "potassium": "50 mg",
+    "carbs": "34 g",
+    "proteins": "2.7 g"
+  },
+ 
+  "Rice Milk": {
+    "calories": "47 calories",
+    "fat": "1 g",
+    "colesterol": "0 mg",
+    "sodium": "39 mg",
+    "potassium": "27 mg",
+    "carbs": "9 g",
+    "proteins": "0.3 g"
+  },
+  
+  "Baked beans": {
+    "calories": "155 calories",
+    "fat": "5 g",
+    "colesterol": "5 mg",
+    "sodium": "422 mg",
+    "potassium": "358 mg",
+    "carbs": "22 g",
+    "proteins": "6 g"
+  },
+  
+  "Pizza, 14\" regular crust": {
+    "calories": "266 calories",
+    "fat": "10 g",
+    "colesterol": "17 mg",
+    "sodium": "598 mg",
+    "potassium": "172 mg",
+    "carbs": "33 g",
+    "proteins": "11 g"
+  },
+  "Buttermilk, cultured, lowfat": {
+    "calories": "0 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "1.1 mg",
+    "potassium": "1.6 mg",
+    "carbs": "0.1 g",
+    "proteins": "0 g"
+  },
+ 
+  "Bread, pumpernickel": {
+    "calories": "250 calories",
+    "fat": "3.1 g",
+    "colesterol": "0 mg",
+    "sodium": "596 mg",
+    "potassium": "208 mg",
+    "carbs": "48 g",
+    "proteins": "9 g"
+  },
+  "Croissants, butter": {
+    "calories": "406 calories",
+    "fat": "21 g",
+    "colesterol": "67 mg",
+    "sodium": "467 mg",
+    "potassium": "118 mg",
+    "carbs": "46 g",
+    "proteins": "8 g"
+  },
+  "Grape juice": {
+    "calories": "60 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "5 mg",
+    "potassium": "104 mg",
+    "carbs": "15 g",
+    "proteins": "0.4 g"
+  },
+  "Gouda cheese": {
+    "calories": "356 calories",
+    "fat": "27 g",
+    "colesterol": "114 mg",
+    "sodium": "819 mg",
+    "potassium": "121 mg",
+    "carbs": "2.2 g",
+    "proteins": "25 g"
+  },
+ 
+  "Sejtan": {
+    "calories": "370 kcal",
+    "fat": "1,9 g",
+    "colesterol": "0 mg",
+    "sodium": "29 mg",
+    "potassium": "100 mg",
+    "carbs": "14 g",
+    "proteins": "75 g"
+  },
+  "Rabbit": {
+    "calories": "173 calories",
+    "fat": "3.5 g",
+    "colesterol": "123 mg",
+    "sodium": "45 mg",
+    "potassium": "343 mg",
+    "carbs": "0 g",
+    "proteins": "33 g"
+  },
+  
+  "Onion gravy": {
+    "calories": "322 calories",
+    "fat": "3 g",
+    "colesterol": "2 mg",
+    "sodium": "4,186 mg",
+    "potassium": "262 mg",
+    "carbs": "68 g",
+    "proteins": "9 g"
+  },
+  "Swordfish, cooked": {
+    "calories": "172 calories",
+    "fat": "8 g",
+    "colesterol": "78 mg",
+    "sodium": "97 mg",
+    "potassium": "499 mg",
+    "carbs": "0 g",
+    "proteins": "23 g"
+  },
+  "Gravy, chicken, canned": {
+    "calories": "79 calories",
+    "fat": "6 g",
+    "colesterol": "2 mg",
+    "sodium": "424 mg",
+    "potassium": "109 mg",
+    "carbs": "5 g",
+    "proteins": "1.9 g"
+  },
+  "Laver": {
+    "calories": "35 calories",
+    "fat": "0.3 g",
+    "colesterol": "0 mg",
+    "sodium": "48 mg",
+    "potassium": "356 mg",
+    "carbs": "5 g",
+    "proteins": "6 g"
+  },
+  
+  "Dulche de leche": {
+    "calories": "315 calories",
+    "fat": "7 g",
+    "colesterol": "29 mg",
+    "sodium": "129 mg",
+    "potassium": "350 mg",
+    "carbs": "55 g",
+    "proteins": "7 g"
+  },
+  "Winter squash, raw": {
+    "calories": "34 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "4 mg",
+    "potassium": "350 mg",
+    "carbs": "9 g",
+    "proteins": "1 g"
+  },
+  "Clementines": {
+    "calories": "47 calories",
+    "fat": "0.2 g",
+    "colesterol": "1 mg",
+    "sodium": "177 mg",
+    "potassium": "12 g",
+    "carbs": "0.9 g"
+  },
+  "Sandwich cookie": {
+    "calories": "469 calories",
+    "fat": "20 g",
+    "colesterol": "0 mg",
+    "sodium": "460 mg",
+    "potassium": "215 mg",
+    "carbs": "71 g",
+    "proteins": "6 g"
+  },
+  "Peppermint": {
+    "calories": "70 calories",
+    "fat": "0.9 g",
+    "colesterol": "0 mg",
+    "sodium": "31 mg",
+    "potassium": "569 mg",
+    "carbs": "15 g",
+    "proteins": "3.8 g"
+  },
+  
+  "Plum sauce": {
+    "calories": "184 calories",
+    "fat": "1 g",
+    "colesterol": "0 mg",
+    "sodium": "538 mg",
+    "potassium": "259 mg",
+    "carbs": "43 g",
+    "proteins": "0.9 g"
+  },
+  "Yellowfin tuna": {
+    "calories": "130 calories",
+    "fat": "0.6 g",
+    "colesterol": "47 mg",
+    "sodium": "54 mg",
+    "potassium": "527 mg",
+    "carbs": "0 g",
+    "proteins": "29 g"
+  },
+  "Colby cheese": {
+    "calories": "394 calories",
+    "fat": "32 g",
+    "colesterol": "95 mg",
+    "sodium": "604 mg",
+    "potassium": "127 mg",
+    "carbs": "2.6 g",
+    "proteins": "24 g"
+  },
+  "Oscar Mayer Salami (Genoa)": {
+    "calories": "388 calories",
+    "fat": "33 g",
+    "colesterol": "102 mg",
+    "sodium": "1,826 mg",
+    "potassium": "334 mg",
+    "carbs": "1.2 g",
+    "proteins": "21 g"
+  },
+  "Tempeh": {
+    "calories": "192,9 kcal",
+    "fat": "11 g",
+    "colesterol": "0 mg",
+    "sodium": "9 mg",
+    "potassium": "412 mg",
+    "carbs": "9 g",
+    "proteins": "19 g"
+  },
+  
+  "Kumquats": {
+    "calories": "71 calories",
+    "fat": "0.9 g",
+    "colesterol": "0 mg",
+    "sodium": "10 mg",
+    "potassium": "186 mg",
+    "carbs": "16 g",
+    "proteins": "1.9 g"
+  },
+  "Sweet and sour sauce": {
+    "calories": "150 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "371 mg",
+    "potassium": "99 mg",
+    "carbs": "38 g",
+    "proteins": "0.3 g"
+  },
+  
+  "Bombon": {
+    "calories": "535,1 kcal",
+    "fat": "30 g",
+    "colesterol": "23 mg",
+    "sodium": "79 mg",
+    "potassium": "372 mg",
+    "carbs": "59 g",
+    "proteins": "8 g"
+  },
+  
+  "Creme de menthe": {
+    "calories": "371 calories",
+    "fat": "0.3 g",
+    "colesterol": "0 mg",
+    "sodium": "5 mg",
+    "potassium": "",
+    "carbs": "42 g",
+    "proteins": "0 g"
+  },
+  "Cabbage, napa, cooked": {
+    "calories": "12 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "11 mg",
+    "potassium": "87 mg",
+    "carbs": "2.2 g",
+    "proteins": "1.1 g"
+  },
+  "Palm hearts": {
+    "calories": "115 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "14 mg",
+    "potassium": "1,806 mg",
+    "carbs": "26 g",
+    "proteins": "2.7 g"
+  },
+  "Root beer": {
+    "calories": "41 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "13 mg",
+    "potassium": "1 mg",
+    "carbs": "11 g",
+    "proteins": "0 g"
+  },
+  "Cabbage, savoy, raw": {
+    "calories": "27 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "28 mg",
+    "potassium": "230 mg",
+    "carbs": "6 g",
+    "proteins": "2 g"
+  },
+  "Brazil nut": {
+    "calories": "656 calories",
+    "fat": "66 g",
+    "colesterol": "0 mg",
+    "sodium": "3 mg",
+    "potassium": "659 mg",
+    "carbs": "12 g",
+    "proteins": "14 g"
+  },
+  "Chocolate milk": {
+    "calories": "83 calories",
+    "fat": "3.4 g",
+    "colesterol": "12 mg",
+    "sodium": "60 mg",
+    "potassium": "167 mg",
+    "carbs": "10 g",
+    "proteins": "3.2 g"
+  },
+  "Beefsteak": {
+    "calories": "134 calories",
+    "fat": "5 g",
+    "colesterol": "67 mg",
+    "sodium": "55 mg",
+    "potassium": "375 mg",
+    "carbs": "0 g",
+    "proteins": "21 g"
+  },
+  
+  "Neufchâtel cheese": {
+    "calories": "253 calories",
+    "fat": "23 g",
+    "colesterol": "74 mg",
+    "sodium": "334 mg",
+    "potassium": "152 mg",
+    "carbs": "3.6 g",
+    "proteins": "9 g"
+  },
+  "Rice cereal": {
+    "calories": "86 calories",
+    "fat": "3.3 g",
+    "colesterol": "10 mg",
+    "sodium": "47 mg",
+    "potassium": "180 mg",
+    "carbs": "10 g",
+    "proteins": "3.6 g"
+  },
+  "Chocolate pudding, cook-and-serve, whole milk": {
+    "calories": "120 calories",
+    "fat": "3.2 g",
+    "colesterol": "9 mg",
+    "sodium": "98 mg",
+    "potassium": "150 mg",
+    "carbs": "20 g",
+    "proteins": "3.2 g"
+  },
+  "Caviar": {
+    "calories": "264,1 kcal",
+    "fat": "18 g",
+    "colesterol": "588 mg",
+    "sodium": "1.500 mg",
+    "potassium": "181 mg",
+    "carbs": "4 g",
+    "proteins": "25 g"
+  },
+  "Bagel": {
+    "calories": "250 calories",
+    "fat": "1.5 g",
+    "colesterol": "0 mg",
+    "sodium": "439 mg",
+    "potassium": "165 mg",
+    "carbs": "49 g",
+    "proteins": "10 g"
+  },
+  "Mungo beans, raw": {
+    "calories": "341 calories",
+    "fat": "1.6 g",
+    "colesterol": "0 mg",
+    "sodium": "38 mg",
+    "potassium": "983 mg",
+    "carbs": "59 g",
+    "proteins": "25 g"
+  },
+  "Vegetable Juice": {
+    "calories": "29 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "21 mg",
+    "potassium": "19 mg",
+    "carbs": "7 g",
+    "proteins": "0 g"
+  },
+  "Fudge": {
+    "calories": "411 calories",
+    "fat": "10 g",
+    "colesterol": "14 mg",
+    "sodium": "45 mg",
+    "potassium": "134 mg",
+    "carbs": "76 g",
+    "proteins": "2.4 g"
+  },
+  "Lettuce, red leaf": {
+    "calories": "16 calories",
+    "fat": "0.2 g",
+    "colesterol": "25 mg",
+    "sodium": "187 mg",
+    "potassium": "2.3 g",
+    "carbs": "1.3 g"
+  },
+  "Quail, cooked": {
+    "calories": "227 calories",
+    "fat": "14 g",
+    "colesterol": "86 mg",
+    "sodium": "52 mg",
+    "potassium": "216 mg",
+    "carbs": "0 g",
+    "proteins": "25 g"
+  },
+  
+  "Brownies": {
+    "calories": "466 calories",
+    "fat": "29 g",
+    "colesterol": "73 mg",
+    "sodium": "343 mg",
+    "potassium": "176 mg",
+    "carbs": "50 g",
+    "proteins": "6 g"
+  },
+  "Black tea": {
+    "calories": "1 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "3 mg",
+    "potassium": "37 mg",
+    "carbs": "0.3 g",
+    "proteins": "0 g"
+  },
+  "Marmalade": {
+    "calories": "246 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "56 mg",
+    "potassium": "37 mg",
+    "carbs": "66 g",
+    "proteins": "0.3 g"
+  },
+  "Pot roast": {
+    "calories": "297 calories",
+    "fat": "19 g",
+    "colesterol": "116 mg",
+    "sodium": "47 mg",
+    "potassium": "231 mg",
+    "carbs": "0 g",
+    "proteins": "29 g"
+  },
+  "Chili peppers, canned": {
+    "calories": "21 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "1,173 mg",
+    "potassium": "187 mg",
+    "carbs": "5 g",
+    "proteins": "0.9 g"
+  },
+  "Kohlrabi": {
+    "calories": "27 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "20 mg",
+    "potassium": "350 mg",
+    "carbs": "6 g",
+    "proteins": "1.7 g"
+  },
+  "Tartar sauce": {
+    "calories": "211 calories",
+    "fat": "17 g",
+    "colesterol": "7 mg",
+    "sodium": "667 mg",
+    "potassium": "68 mg",
+    "carbs": "13 g",
+    "proteins": "1 g"
+  },
+  "Carrot juice": {
+    "calories": "39 calories",
+    "fat": "0.2 g",
+    "colesterol": "0 mg",
+    "sodium": "66 mg",
+    "potassium": "292 mg",
+    "carbs": "9 g",
+    "proteins": "1 g"
+  },
+  "Mortadella, pork and beef": {
+    "calories": "311 calories",
+    "fat": "25 g",
+    "colesterol": "56 mg",
+    "sodium": "1,246 mg",
+    "potassium": "163 mg",
+    "carbs": "3.1 g",
+    "proteins": "16 g"
+  },
+  "Egg custard, whole milk": {
+    "calories": "122 calories",
+    "fat": "4 g",
+    "colesterol": "51 mg",
+    "sodium": "84 mg",
+    "potassium": "207 mg",
+    "carbs": "18 g",
+    "proteins": "4 g"
+  },
+  "Light beer": {
+    "calories": "29 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "4 mg",
+    "potassium": "21 mg",
+    "carbs": "1.6 g",
+    "proteins": "0.2 g"
+  },
+  "Honeydew": {
+    "calories": "36 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "18 mg",
+    "potassium": "228 mg",
+    "carbs": "9 g",
+    "proteins": "0.5 g"
+  },
+  "Cube steak": {
+    "calories": "165,6 kcal",
+    "fat": "8 g",
+    "colesterol": "69 mg",
+    "sodium": "60 mg",
+    "potassium": "349 mg",
+    "carbs": "0 g",
+    "proteins": "22 g"
+  },
+  "Smoked Fish": {
+    "calories": "117 calories",
+    "fat": "4.3 g",
+    "colesterol": "23 mg",
+    "sodium": "784 mg",
+    "potassium": "175 mg",
+    "carbs": "0 g",
+    "proteins": "18 g"
+  },
+  "Chocolate cake, without frosting": {
+    "calories": "371 calories",
+    "fat": "15 g",
+    "colesterol": "58 mg",
+    "sodium": "315 mg",
+    "potassium": "140 mg",
+    "carbs": "53 g",
+    "proteins": "5 g"
+  },
+  "Pink salmon": {
+    "calories": "152 calories",
+    "fat": "5 g",
+    "colesterol": "55 mg",
+    "sodium": "90 mg",
+    "potassium": "439 mg",
+    "carbs": "0 g",
+    "proteins": "25 g"
+  },
+  "Pace Picante Sauce": {
+    "calories": "25 calories",
+    "fat": "0 g",
+    "colesterol": "0 mg",
+    "sodium": "781 mg",
+    "potassium": "6 g",
+    "carbs": "0 g"
+  },
+  "Quince": {
+    "calories": "57 calories",
+    "fat": "0.1 g",
+    "colesterol": "0 mg",
+    "sodium": "4 mg",
+    "potassium": "197 mg",
+    "carbs": "15 g",
+    "proteins": "0.4 g"
+  },
+  "French fries, fast food": {
+    "calories": "311,9 kcal",
+    "fat": "15 g",
+    "colesterol": "0 mg",
+    "sodium": "210 mg",
+    "potassium": "579 mg",
+    "carbs": "41 g",
+    "proteins": "3,4 g"
+  },
+ 
+  "Muffins, blueberry": {
+    "calories": "377 calories",
+    "fat": "16 g",
+    "colesterol": "30 mg",
+    "sodium": "339 mg",
+    "potassium": "115 mg",
+    "carbs": "54 g",
+    "proteins": "4.5 g"
+  },
+  "Cheese spread": {
+    "calories": "295 calories",
+    "fat": "29 g",
+    "colesterol": "90 mg",
+    "sodium": "505 mg",
+    "potassium": "112 mg",
+    "carbs": "3.5 g",
+    "proteins": "7 g"
+  },
+  "Cheddar sauce": {
+    "calories": "174 calories",
+    "fat": "13 g",
+    "colesterol": "29 mg",
+    "sodium": "828 mg",
+    "potassium": "30 mg",
+    "carbs": "7 g",
+    "proteins": "7 g"
+  },
+  "General Mills Wheat Chex": {
+    "calories": "345 calories",
+    "fat": "1.8 g",
+    "colesterol": "0 mg",
+    "sodium": "570 mg",
+    "potassium": "369 mg",
+    "carbs": "82 g",
+    "proteins": "10 g"
+  },
+  "Pasta, fresh-refrigerated": {
+    "calories": "288 calories",
+    "fat": "2.3 g",
+    "colesterol": "73 mg",
+    "sodium": "26 mg",
+    "potassium": "179 mg",
+    "carbs": "55 g",
+    "proteins": "11 g"
+  },
+  
+  "Apples, boiled": {
+    "calories": "53 calories",
+    "fat": "0.4 g",
+    "colesterol": "0 mg",
+    "sodium": "1 mg",
+    "potassium": "88 mg",
+    "carbs": "14 g",
+    "proteins": "0.3 g"
+  },
+  "Mackerel": {
+    "calories": "305 calories",
+    "fat": "25 g",
+    "colesterol": "95 mg",
+    "sodium": "4,450 mg",
+    "potassium": "520 mg",
+    "carbs": "0 g",
+    "proteins": "19 g"
+  },
+  "Merlot": {
+    "calories": "83 calories",
+    "fat": "0 g",
+    "colesterol": "4 mg",
+    "sodium": "127 mg",
+    "potassium": "2.5 g",
+    "carbs": "0.1 g"
+  },
+  "General Mills Chex Corn Cereal": {
+    "calories": "369,5 kcal",
+    "fat": "2,4 g",
+    "colesterol": "0 mg",
+    "sodium": "760 mg",
+    "potassium": "195 mg",
+    "carbs": "85 g",
+    "proteins": "6 g"
+  },
+    "Candy bar": {
+      "calories": "522 calories",
+      "fat": "34 g",
+      "colesterol": "0 mg",
+      "sodium": "156 mg",
+      "potassium": "407 mg",
+      "carbs": "47 g",
+      "proteins": "16 g"
+    },
+    "Vinegar": {
+      "calories": "18 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "2 mg",
+      "potassium": "2 mg",
+      "carbs": "0 g",
+      "proteins": "0 g"
+    },
+    
+    "Dates, deglet noor": {
+      "calories": "282 calories",
+      "fat": "0.4 g",
+      "colesterol": "0 mg",
+      "sodium": "2 mg",
+      "potassium": "656 mg",
+      "carbs": "75 g",
+      "proteins": "2.5 g"
+    },
+    "Coffee, espresso": {
+      "calories": "9 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "14 mg",
+      "potassium": "115 mg",
+      "carbs": "1.7 g",
+      "proteins": "0.1 g"
+    },
+    "Mung beans, raw": {
+      "calories": "347 calories",
+      "fat": "1.2 g",
+      "colesterol": "0 mg",
+      "sodium": "15 mg",
+      "potassium": "1,246 mg",
+      "carbs": "63 g",
+      "proteins": "24 g"
+    },
+    "Top sirloin steak, broiled": {
+      "calories": "244 calories",
+      "fat": "14 g",
+      "colesterol": "92 mg",
+      "sodium": "56 mg",
+      "potassium": "336 mg",
+      "carbs": "0 g",
+      "proteins": "27 g"
+    },
+    "Jamón": {
+      "calories": "200 calories",
+      "fat": "13 g",
+      "colesterol": "67 mg",
+      "sodium": "838 mg",
+      "potassium": "278 mg",
+      "carbs": "0.4 g",
+      "proteins": "20 g"
+    },
+    "Cream, light": {
+      "calories": "196 calories",
+      "fat": "19 g",
+      "colesterol": "66 mg",
+      "sodium": "40 mg",
+      "potassium": "122 mg",
+      "carbs": "3.7 g",
+      "proteins": "2.7 g"
+    },
+    "Potato, baked": {
+      "calories": "93 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "10 mg",
+      "potassium": "535 mg",
+      "carbs": "21 g",
+      "proteins": "2.5 g"
+    },
+    "Liver": {
+      "calories": "165 calories",
+      "fat": "4.4 g",
+      "colesterol": "355 mg",
+      "sodium": "49 mg",
+      "potassium": "150 mg",
+      "carbs": "3.8 g",
+      "proteins": "26 g"
+    },
+    "Bread, French or Vienna (includes sourdough)": {
+      "calories": "289 calories",
+      "fat": "1.8 g",
+      "colesterol": "0 mg",
+      "sodium": "513 mg",
+      "potassium": "128 mg",
+      "carbs": "56 g",
+      "proteins": "12 g"
+    },
+    "Consommé": {
+      "calories": "12 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "264 mg",
+      "potassium": "64 mg",
+      "carbs": "0.7 g",
+      "proteins": "2.2 g"
+    },
+    "Tarragon": {
+      "calories": "295 calories",
+      "fat": "7 g",
+      "colesterol": "0 mg",
+      "sodium": "62 mg",
+      "potassium": "3,020 mg",
+      "carbs": "50 g",
+      "proteins": "23 g"
+    },
+    "Ladyfinger": {
+      "calories": "365 calories",
+      "fat": "9 g",
+      "colesterol": "221 mg",
+      "sodium": "147 mg",
+      "potassium": "113 mg",
+      "carbs": "60 g",
+      "proteins": "11 g"
+    },
+    "Blue cheese dressing, fat free": {
+      "calories": "115 calories",
+      "fat": "1 g",
+      "colesterol": "2 mg",
+      "sodium": "814 mg",
+      "potassium": "194 mg",
+      "carbs": "26 g",
+      "proteins": "1.5 g"
+    },
+    "Soy yogurt": {
+      "calories": "94 calories",
+      "fat": "1.8 g",
+      "colesterol": "0 mg",
+      "sodium": "35 mg",
+      "potassium": "47 mg",
+      "carbs": "16 g",
+      "proteins": "3.5 g"
+    },
+    "Sockeye salmon": {
+      "calories": "169 calories",
+      "fat": "7 g",
+      "colesterol": "63 mg",
+      "sodium": "134 mg",
+      "potassium": "408 mg",
+      "carbs": "0 g",
+      "proteins": "25 g"
+    },
+    
+    "Limes": {
+      "calories": "30 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "2 mg",
+      "potassium": "102 mg",
+      "carbs": "11 g",
+      "proteins": "0.7 g"
+    },
+    "Apple": {
+      "calories": "52 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "1 mg",
+      "potassium": "107 mg",
+      "carbs": "14 g",
+      "proteins": "0.3 g"
+    },
+    "Condensed milk": {
+      "calories": "321 calories",
+      "fat": "9 g",
+      "colesterol": "34 mg",
+      "sodium": "127 mg",
+      "potassium": "371 mg",
+      "carbs": "54 g",
+      "proteins": "8 g"
+    },
+    "Mangos": {
+      "calories": "60 calories",
+      "fat": "0.4 g",
+      "colesterol": "0 mg",
+      "sodium": "1 mg",
+      "potassium": "168 mg",
+      "carbs": "15 g",
+      "proteins": "0.8 g"
+    },
+    "Seaweed, agar, dried": {
+      "calories": "306 calories",
+      "fat": "0.3 g",
+      "colesterol": "0 mg",
+      "sodium": "102 mg",
+      "potassium": "1,125 mg",
+      "carbs": "81 g",
+      "proteins": "6 g"
+    },
+    "Tart": {
+      "calories": "372 calories",
+      "fat": "6 g",
+      "colesterol": "0 mg",
+      "sodium": "361 mg",
+      "potassium": "66 mg",
+      "carbs": "77 g",
+      "proteins": "4 g"
+    },
+    "Shortening, coconut or palm kernel (hydrogenated)": {
+      "calories": "884 calories",
+      "fat": "100 g",
+      "colesterol": "0 mg",
+      "sodium": "0 mg",
+      "potassium": "",
+      "carbs": "0 g",
+      "proteins": "0 g"
+    },
+    "Oxtail": {
+      "calories": "674 calories",
+      "fat": "71 g",
+      "colesterol": "99 mg",
+      "sodium": "26 mg",
+      "potassium": "96 mg",
+      "carbs": "0 g",
+      "proteins": "8 g"
+    },
+    "Lasagna, with meat sauce": {
+      "calories": "135 calories",
+      "fat": "4.9 g",
+      "colesterol": "17 mg",
+      "sodium": "373 mg",
+      "potassium": "196 mg",
+      "carbs": "15 g",
+      "proteins": "7 g"
+    },
+    "Pasilla": {
+      "calories": "345 calories",
+      "fat": "16 g",
+      "colesterol": "0 mg",
+      "sodium": "89 mg",
+      "potassium": "2,222 mg",
+      "carbs": "51 g",
+      "proteins": "12 g"
+    },
+    "Phyllo dough": {
+      "calories": "299 calories",
+      "fat": "6 g",
+      "colesterol": "0 mg",
+      "sodium": "483 mg",
+      "potassium": "74 mg",
+      "carbs": "53 g",
+      "proteins": "7 g"
+    },
+    "Grenadine syrup": {
+      "calories": "268 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "27 mg",
+      "potassium": "28 mg",
+      "carbs": "67 g",
+      "proteins": "0 g"
+    },
+    "Arrowroot": {
+      "calories": "65 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "26 mg",
+      "potassium": "454 mg",
+      "carbs": "13 g",
+      "proteins": "4.2 g"
+    },
+    "Cream of mushroom soup": {
+      "calories": "39 calories",
+      "fat": "2.6 g",
+      "colesterol": "0 mg",
+      "sodium": "340 mg",
+      "potassium": "31 mg",
+      "carbs": "3.3 g",
+      "proteins": "0.7 g"
+    },
+    "Corn tortilla": {
+      "calories": "218 calories",
+      "fat": "2.9 g",
+      "colesterol": "0 mg",
+      "sodium": "45 mg",
+      "potassium": "186 mg",
+      "carbs": "45 g",
+      "proteins": "6 g"
+    },
+    "Beef shank": {
+      "calories": "201 calories",
+      "fat": "6 g",
+      "colesterol": "78 mg",
+      "sodium": "64 mg",
+      "potassium": "447 mg",
+      "carbs": "0 g",
+      "proteins": "34 g"
+    },
+    "Mayonnaise": {
+      "calories": "680 calories",
+      "fat": "75 g",
+      "colesterol": "42 mg",
+      "sodium": "635 mg",
+      "potassium": "20 mg",
+      "carbs": "0.6 g",
+      "proteins": "1 g"
+    },
+    "Vanilla extract": {
+      "calories": "288 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "9 mg",
+      "potassium": "148 mg",
+      "carbs": "13 g",
+      "proteins": "0.1 g"
+    },
+    "Corn on the cob": {
+      "calories": "106 calories",
+      "fat": "2.4 g",
+      "colesterol": "4 mg",
+      "sodium": "20 mg",
+      "potassium": "246 mg",
+      "carbs": "22 g",
+      "proteins": "3.1 g"
+    },
+    "Grape leaves": {
+      "calories": "93 calories",
+      "fat": "2.1 g",
+      "colesterol": "0 mg",
+      "sodium": "9 mg",
+      "potassium": "272 mg",
+      "carbs": "17 g",
+      "proteins": "6 g"
+    },
+    
+    "Egg, white, raw": {
+      "calories": "52 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "166 mg",
+      "potassium": "163 mg",
+      "carbs": "0.7 g",
+      "proteins": "11 g"
+    },
+    "Mljeveno meso": {
+      "calories": "240,7 kcal",
+      "fat": "15 g",
+      "colesterol": "66 mg",
+      "sodium": "73 mg",
+      "potassium": "241 mg",
+      "carbs": "0 g",
+      "proteins": "24 g"
+    },
+    "Cracker meal": {
+      "calories": "383 calories",
+      "fat": "1.7 g",
+      "colesterol": "0 mg",
+      "sodium": "16 mg",
+      "potassium": "115 mg",
+      "carbs": "81 g",
+      "proteins": "9 g"
+    },
+    
+    "Chicken breast": {
+      "calories": "165 calories",
+      "fat": "3.6 g",
+      "colesterol": "85 mg",
+      "sodium": "74 mg",
+      "potassium": "256 mg",
+      "carbs": "0 g",
+      "proteins": "31 g"
+    },
+    "Turnip greens": {
+      "calories": "32 calories",
+      "fat": "0.3 g",
+      "colesterol": "0 mg",
+      "sodium": "40 mg",
+      "potassium": "296 mg",
+      "carbs": "7 g",
+      "proteins": "1.5 g"
+    },
+    "Applesauce, sweetened": {
+      "calories": "68 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "2 mg",
+      "potassium": "75 mg",
+      "carbs": "17 g",
+      "proteins": "0.2 g"
+    },
+    "Wheat flour, whole-grain": {
+      "calories": "340 calories",
+      "fat": "2.5 g",
+      "colesterol": "0 mg",
+      "sodium": "2 mg",
+      "potassium": "363 mg",
+      "carbs": "72 g",
+      "proteins": "13 g"
+    },
+    "Cheesecake": {
+      "calories": "321 calories",
+      "fat": "23 g",
+      "colesterol": "55 mg",
+      "sodium": "438 mg",
+      "potassium": "90 mg",
+      "carbs": "26 g",
+      "proteins": "6 g"
+    },
+    "Sea bass, cooked": {
+      "calories": "124 calories",
+      "fat": "2.6 g",
+      "colesterol": "53 mg",
+      "sodium": "87 mg",
+      "potassium": "328 mg",
+      "carbs": "0 g",
+      "proteins": "24 g"
+    },
+    "Green peas": {
+      "calories": "81 calories",
+      "fat": "0.4 g",
+      "colesterol": "0 mg",
+      "sodium": "5 mg",
+      "potassium": "244 mg",
+      "carbs": "14 g",
+      "proteins": "5 g"
+    },
+    "Turkey, whole, roasted": {
+      "calories": "189 calories",
+      "fat": "7 g",
+      "colesterol": "109 mg",
+      "sodium": "103 mg",
+      "potassium": "239 mg",
+      "carbs": "0.1 g",
+      "proteins": "29 g"
+    },
+    
+    "Onions, yellow, sauteed": {
+      "calories": "132 calories",
+      "fat": "11 g",
+      "colesterol": "12 mg",
+      "sodium": "133 mg",
+      "potassium": "8 g",
+      "carbs": "1 g"
+    },
+    "Wonton Wrappers": {
+      "calories": "291 calories",
+      "fat": "1.5 g",
+      "colesterol": "9 mg",
+      "sodium": "572 mg",
+      "potassium": "82 mg",
+      "carbs": "58 g",
+      "proteins": "10 g"
+    },
+    "Shallots": {
+      "calories": "72 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "12 mg",
+      "potassium": "334 mg",
+      "carbs": "17 g",
+      "proteins": "2.5 g"
+    },
+    "Chickpeas": {
+      "calories": "364 calories",
+      "fat": "6 g",
+      "colesterol": "0 mg",
+      "sodium": "24 mg",
+      "potassium": "875 mg",
+      "carbs": "61 g",
+      "proteins": "19 g"
+    },
+    "Seafood Sauce": {
+      "calories": "124 calories",
+      "fat": "1.1 g",
+      "colesterol": "0 mg",
+      "sodium": "983 mg",
+      "potassium": "309 mg",
+      "carbs": "28 g",
+      "proteins": "1.4 g"
+    },
+    "Raisin Bread": {
+      "calories": "274 calories",
+      "fat": "4.4 g",
+      "colesterol": "0 mg",
+      "sodium": "390 mg",
+      "potassium": "227 mg",
+      "carbs": "52 g",
+      "proteins": "8 g"
+    },
+    "Egg, boiled": {
+      "calories": "155 calories",
+      "fat": "11 g",
+      "colesterol": "373 mg",
+      "sodium": "124 mg",
+      "potassium": "126 mg",
+      "carbs": "1.1 g",
+      "proteins": "13 g"
+    },
+    "Kiwi": {
+      "calories": "61 calories",
+      "fat": "0.5 g",
+      "colesterol": "0 mg",
+      "sodium": "3 mg",
+      "potassium": "312 mg",
+      "carbs": "15 g",
+      "proteins": "1.1 g"
+    },
+    "Mushrooms, white": {
+      "calories": "22 calories",
+      "fat": "0.3 g",
+      "colesterol": "0 mg",
+      "sodium": "5 mg",
+      "potassium": "318 mg",
+      "carbs": "3.3 g",
+      "proteins": "3.1 g"
+    },
+    "Cream cheese": {
+      "calories": "342 calories",
+      "fat": "34 g",
+      "colesterol": "110 mg",
+      "sodium": "321 mg",
+      "potassium": "138 mg",
+      "carbs": "4.1 g",
+      "proteins": "6 g"
+    },
+    "Duck, cooked": {
+      "calories": "337 calories",
+      "fat": "28 g",
+      "colesterol": "84 mg",
+      "sodium": "59 mg",
+      "potassium": "204 mg",
+      "carbs": "0 g",
+      "proteins": "19 g"
+    },
+    "Pasta, fresh-refrigerated, cooked": {
+      "calories": "131 calories",
+      "fat": "1.1 g",
+      "colesterol": "33 mg",
+      "sodium": "6 mg",
+      "potassium": "24 mg",
+      "carbs": "25 g",
+      "proteins": "5 g"
+    },
+    "Bologna, pork": {
+      "calories": "247 calories",
+      "fat": "20 g",
+      "colesterol": "59 mg",
+      "sodium": "907 mg",
+      "potassium": "281 mg",
+      "carbs": "0.7 g",
+      "proteins": "15 g"
+    },
+    "Spaghetti, cooked": {
+      "calories": "2 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "0 mg",
+      "potassium": "0.4 mg",
+      "carbs": "0 g",
+      "proteins": "0 g"
+    },
+    "Zucchini": {
+      "calories": "0 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "0.1 mg",
+      "potassium": "2.6 mg",
+      "carbs": "0 g",
+      "proteins": "0 g"
+    },
+    "Parmesan cheese": {
+      "calories": "431 calories",
+      "fat": "29 g",
+      "colesterol": "88 mg",
+      "sodium": "1,529 mg",
+      "potassium": "125 mg",
+      "carbs": "4.1 g",
+      "proteins": "38 g"
+    },
+    "Chorizo, pork and beef": {
+      "calories": "455 calories",
+      "fat": "38 g",
+      "colesterol": "88 mg",
+      "sodium": "1,235 mg",
+      "potassium": "398 mg",
+      "carbs": "1.9 g",
+      "proteins": "24 g"
+    },
+    "Peppers, sweet, red": {
+      "calories": "31 calories",
+      "fat": "0.3 g",
+      "colesterol": "0 mg",
+      "sodium": "4 mg",
+      "potassium": "211 mg",
+      "carbs": "6 g",
+      "proteins": "1 g"
+    },
+    "Buckwheat groats, roasted, dry": {
+      "calories": "346 calories",
+      "fat": "2.7 g",
+      "colesterol": "0 mg",
+      "sodium": "11 mg",
+      "potassium": "320 mg",
+      "carbs": "75 g",
+      "proteins": "12 g"
+    },
+    "Italian dressing": {
+      "calories": "240 calories",
+      "fat": "21 g",
+      "colesterol": "0 mg",
+      "sodium": "993 mg",
+      "potassium": "84 mg",
+      "carbs": "12 g",
+      "proteins": "0.4 g"
+    },
+    "Pork steak": {
+      "calories": "259 calories",
+      "fat": "17 g",
+      "colesterol": "95 mg",
+      "sodium": "69 mg",
+      "potassium": "326 mg",
+      "carbs": "0 g",
+      "proteins": "26 g"
+    },
+    "Cola": {
+      "calories": "38 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "4 mg",
+      "potassium": "2 mg",
+      "carbs": "10 g",
+      "proteins": "0.1 g"
+    },
+    "Chayote": {
+      "calories": "19 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "2 mg",
+      "potassium": "125 mg",
+      "carbs": "4.5 g",
+      "proteins": "0.8 g"
+    },
+    "Roe, cooked": {
+      "calories": "204 calories",
+      "fat": "8 g",
+      "colesterol": "479 mg",
+      "sodium": "117 mg",
+      "potassium": "283 mg",
+      "carbs": "1.9 g",
+      "proteins": "29 g"
+    },
+    "Popcorn": {
+      "calories": "375 calories",
+      "fat": "4.3 g",
+      "colesterol": "",
+      "sodium": "7 mg",
+      "potassium": "274 mg",
+      "carbs": "74 g",
+      "proteins": "11 g"
+    },
+    
+    "Orange juice": {
+      "calories": "45 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "1 mg",
+      "potassium": "200 mg",
+      "carbs": "10 g",
+      "proteins": "0.7 g"
+    },
+    "Brie": {
+      "calories": "334 calories",
+      "fat": "28 g",
+      "colesterol": "100 mg",
+      "sodium": "629 mg",
+      "potassium": "152 mg",
+      "carbs": "0.5 g",
+      "proteins": "21 g"
+    },
+    "Lettuce, romaine": {
+      "calories": "17 calories",
+      "fat": "0.3 g",
+      "colesterol": "0 mg",
+      "sodium": "8 mg",
+      "potassium": "247 mg",
+      "carbs": "3.3 g",
+      "proteins": "1.2 g"
+    },
+    "Asparagus": {
+      "calories": "1 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "0.1 mg",
+      "potassium": "7.1 mg",
+      "carbs": "0.1 g",
+      "proteins": "0.1 g"
+    },
+    "Pickled cucumber": {
+      "calories": "11 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "1,208 mg",
+      "potassium": "23 mg",
+      "carbs": "2.3 g",
+      "proteins": "0.3 g"
+    },
+    "Peanut butter, smooth style": {
+      "calories": "588 calories",
+      "fat": "50 g",
+      "colesterol": "0 mg",
+      "sodium": "17 mg",
+      "potassium": "649 mg",
+      "carbs": "20 g",
+      "proteins": "25 g"
+    },
+    "Basil": {
+      "calories": "22 calories",
+      "fat": "0.6 g",
+      "colesterol": "0 mg",
+      "sodium": "4 mg",
+      "potassium": "295 mg",
+      "carbs": "2.7 g",
+      "proteins": "3.2 g"
+    },
+    "Pumpkin": {
+      "calories": "26 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "1 mg",
+      "potassium": "340 mg",
+      "carbs": "7 g",
+      "proteins": "1 g"
+    },
+    "Kellogg's Crispix Cereal": {
+      "calories": "370 calories",
+      "fat": "0.5 g",
+      "colesterol": "0 mg",
+      "sodium": "751 mg",
+      "potassium": "135 mg",
+      "carbs": "86 g",
+      "proteins": "7 g"
+    },
+    "Béchamel sauce": {
+      "calories": "105 calories",
+      "fat": "7 g",
+      "colesterol": "8 mg",
+      "sodium": "328 mg",
+      "potassium": "163 mg",
+      "carbs": "7 g",
+      "proteins": "3.8 g"
+    },
+    "Corn kernel": {
+      "calories": "64 calories",
+      "fat": "0.5 g",
+      "colesterol": "0 mg",
+      "sodium": "213 mg",
+      "potassium": "164 mg",
+      "carbs": "15 g",
+      "proteins": "2 g"
+    },
+    
+    "Whiskey sour mix, bottled": {
+      "calories": "87 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "102 mg",
+      "potassium": "28 mg",
+      "carbs": "21 g",
+      "proteins": "0.1 g"
+    },
+    "Pear nectar": {
+      "calories": "60 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "4 mg",
+      "potassium": "13 mg",
+      "carbs": "16 g",
+      "proteins": "0.1 g"
+    },
+    "Pastrami": {
+      "calories": "147 calories",
+      "fat": "6 g",
+      "colesterol": "68 mg",
+      "sodium": "1,078 mg",
+      "potassium": "210 mg",
+      "carbs": "0.4 g",
+      "proteins": "22 g"
+    },
+    "Dripping": {
+      "calories": "889 calories",
+      "fat": "99 g",
+      "colesterol": "101 mg",
+      "sodium": "545 mg",
+      "potassium": "",
+      "carbs": "0 g",
+      "proteins": "0 g"
+    },
+    "Lettuce, green leaf": {
+      "calories": "1 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "1.3 mg",
+      "potassium": "9.3 mg",
+      "carbs": "0.1 g",
+      "proteins": "0.1 g"
+    },
+    
+    "Cottage cheese, creamed": {
+      "calories": "98 calories",
+      "fat": "4.3 g",
+      "colesterol": "17 mg",
+      "sodium": "364 mg",
+      "potassium": "104 mg",
+      "carbs": "3.4 g",
+      "proteins": "11 g"
+    },
+    "Gumdrop": {
+      "calories": "396 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "44 mg",
+      "potassium": "5 mg",
+      "carbs": "99 g",
+      "proteins": "0 g"
+    },
+    
+    "Biscuit": {
+      "calories": "353 calories",
+      "fat": "16 g",
+      "colesterol": "3 mg",
+      "sodium": "580 mg",
+      "potassium": "121 mg",
+      "carbs": "45 g",
+      "proteins": "7 g"
+    },
+    "Tortilla": {
+      "calories": "237 calories",
+      "fat": "1 g",
+      "colesterol": "",
+      "sodium": "482 mg",
+      "potassium": "105 mg",
+      "carbs": "50 g",
+      "proteins": "7 g"
+    },
+    "Radishes, oriental": {
+      "calories": "18 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "21 mg",
+      "potassium": "227 mg",
+      "carbs": "4.1 g",
+      "proteins": "0.6 g"
+    },
+    "Canola Oil": {
+      "calories": "884 calories",
+      "fat": "100 g",
+      "colesterol": "0 mg",
+      "sodium": "0 mg",
+      "potassium": "",
+      "carbs": "0 g",
+      "proteins": "0 g"
+    },
+    "Ice cream, vanilla": {
+      "calories": "207 calories",
+      "fat": "11 g",
+      "colesterol": "44 mg",
+      "sodium": "80 mg",
+      "potassium": "199 mg",
+      "carbs": "24 g",
+      "proteins": "3.5 g"
+    },
+    "Dark chocolate": {
+      "calories": "884 calories",
+      "fat": "51 g",
+      "colesterol": "13 mg",
+      "sodium": "38.9 mg",
+      "potassium": "905.6 mg",
+      "carbs": "99 g",
+      "proteins": "8 g"
+    },
+    
+    "Chili powder": {
+      "calories": "282 calories",
+      "fat": "14 g",
+      "colesterol": "0 mg",
+      "sodium": "1,640 mg",
+      "potassium": "1,950 mg",
+      "carbs": "50 g",
+      "proteins": "13 g"
+    },
+    "Chuck eye steak, grilled": {
+      "calories": "277 calories",
+      "fat": "20 g",
+      "colesterol": "87 mg",
+      "sodium": "71 mg",
+      "potassium": "325 mg",
+      "carbs": "0 g",
+      "proteins": "25 g"
+    },
+    "Sponge cake": {
+      "calories": "297 calories",
+      "fat": "4.3 g",
+      "colesterol": "170 mg",
+      "sodium": "228 mg",
+      "potassium": "141 mg",
+      "carbs": "58 g",
+      "proteins": "7 g"
+    },
+    "Coleslaw, fast food": {
+      "calories": "152 calories",
+      "fat": "10 g",
+      "colesterol": "4 mg",
+      "sodium": "203 mg",
+      "potassium": "129 mg",
+      "carbs": "15 g",
+      "proteins": "1 g"
+    },
+    "Ginger root": {
+      "calories": "80 calories",
+      "fat": "0.8 g",
+      "colesterol": "0 mg",
+      "sodium": "13 mg",
+      "potassium": "415 mg",
+      "carbs": "18 g",
+      "proteins": "1.8 g"
+    },
+    "Bananas": {
+      "calories": "121 calories",
+      "fat": "0.4 g",
+      "colesterol": "0 mg",
+      "sodium": "1.4 mg",
+      "potassium": "486.9 mg",
+      "carbs": "31 g",
+      "proteins": "1.5 g"
+    },
+    "Bamboo shoots, raw": {
+      "calories": "27 calories",
+      "fat": "0.3 g",
+      "colesterol": "0 mg",
+      "sodium": "4 mg",
+      "potassium": "533 mg",
+      "carbs": "5 g",
+      "proteins": "2.6 g"
+    },
+    "Candied fruit": {
+      "calories": "321 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "98 mg",
+      "potassium": "56 mg",
+      "carbs": "83 g",
+      "proteins": "0.3 g"
+    },
+    "Ravioli, cheese": {
+      "calories": "77 calories",
+      "fat": "1.5 g",
+      "colesterol": "3 mg",
+      "sodium": "306 mg",
+      "potassium": "232 mg",
+      "carbs": "14 g",
+      "proteins": "2.5 g"
+    },
+    "Grapefruit, pink and red": {
+      "calories": "42 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "0 mg",
+      "potassium": "135 mg",
+      "carbs": "11 g",
+      "proteins": "0.8 g"
+    },
+    "Sausage": {
+      "calories": "315 calories",
+      "fat": "29 g",
+      "colesterol": "69.2 mg",
+      "sodium": "665.2 mg",
+      "potassium": "230.2 mg",
+      "carbs": "0.6 g",
+      "proteins": "13 g"
+    },
+    "Chardonnay": {
+      "calories": "84 calories",
+      "fat": "0 g",
+      "colesterol": "5 mg",
+      "sodium": "71 mg",
+      "potassium": "2.2 g",
+      "carbs": "0.1 g"
+    },
+    "Peppers, green": {
+      "calories": "20 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "3 mg",
+      "potassium": "175 mg",
+      "carbs": "4.6 g",
+      "proteins": "0.9 g"
+    },
+    "Pork, loin, whole, broiled": {
+      "calories": "242 calories",
+      "fat": "14 g",
+      "colesterol": "80 mg",
+      "sodium": "62 mg",
+      "potassium": "423 mg",
+      "carbs": "0 g",
+      "proteins": "27 g"
+    },
+    "Rice, brown, long-grain, cooked": {
+      "calories": "111 calories",
+      "fat": "0.9 g",
+      "colesterol": "0 mg",
+      "sodium": "5 mg",
+      "potassium": "43 mg",
+      "carbs": "23 g",
+      "proteins": "2.6 g"
+    },
+    "Cinnamon Roll": {
+      "calories": "436 calories",
+      "fat": "24 g",
+      "colesterol": "3 mg",
+      "sodium": "305 mg",
+      "potassium": "96 mg",
+      "carbs": "50 g",
+      "proteins": "4.7 g"
+    },
+    "Tangerine": {
+      "calories": "53 calories",
+      "fat": "0.3 g",
+      "colesterol": "0 mg",
+      "sodium": "2 mg",
+      "potassium": "166 mg",
+      "carbs": "13 g",
+      "proteins": "0.8 g"
+    },
+    "Raspberries": {
+      "calories": "53 calories",
+      "fat": "0.7 g",
+      "colesterol": "0 mg",
+      "sodium": "1 mg",
+      "potassium": "151 mg",
+      "carbs": "12 g",
+      "proteins": "1.2 g"
+    },
+    "Maple sugar": {
+      "calories": "354 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "11 mg",
+      "potassium": "274 mg",
+      "carbs": "91 g",
+      "proteins": "0.1 g"
+    },
+    "Corned beef, hash, with potato": {
+      "calories": "164 calories",
+      "fat": "10 g",
+      "colesterol": "32 mg",
+      "sodium": "412 mg",
+      "potassium": "172 mg",
+      "carbs": "9 g",
+      "proteins": "9 g"
+    },
+    "Chili peppers, red": {
+      "calories": "40 calories",
+      "fat": "0.4 g",
+      "colesterol": "0 mg",
+      "sodium": "9 mg",
+      "potassium": "322 mg",
+      "carbs": "9 g",
+      "proteins": "1.9 g"
+    },
+    "Ginger snap": {
+      "calories": "416 calories",
+      "fat": "10 g",
+      "colesterol": "0 mg",
+      "sodium": "501 mg",
+      "potassium": "346 mg",
+      "carbs": "77 g",
+      "proteins": "6 g"
+    },
+    "Gelatin": {
+      "calories": "62 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "75 mg",
+      "potassium": "1 mg",
+      "carbs": "14 g",
+      "proteins": "1.2 g"
+    },
+    
+    "Blue cheese": {
+      "calories": "353 calories",
+      "fat": "29 g",
+      "colesterol": "75 mg",
+      "sodium": "1,395 mg",
+      "potassium": "256 mg",
+      "carbs": "2.3 g",
+      "proteins": "21 g"
+    },
+    
+    "Ketchup": {
+      "calories": "112 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "907 mg",
+      "potassium": "315 mg",
+      "carbs": "26 g",
+      "proteins": "1.3 g"
+    },
+    "Hot Dog": {
+      "calories": "290 calories",
+      "fat": "26 g",
+      "colesterol": "77 mg",
+      "sodium": "1,090 mg",
+      "potassium": "152 mg",
+      "carbs": "4.2 g",
+      "proteins": "10 g"
+    },
+    "Crab, imitation": {
+      "calories": "95 calories",
+      "fat": "0.5 g",
+      "colesterol": "20 mg",
+      "sodium": "841 mg",
+      "potassium": "90 mg",
+      "carbs": "15 g",
+      "proteins": "8 g"
+    },
+    
+    "Jerusalem artichokes": {
+      "calories": "73 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "4 mg",
+      "potassium": "429 mg",
+      "carbs": "17 g",
+      "proteins": "2 g"
+    },
+    "Matzo, plain": {
+      "calories": "395 calories",
+      "fat": "1.4 g",
+      "colesterol": "0 mg",
+      "sodium": "0 mg",
+      "potassium": "112 mg",
+      "carbs": "84 g",
+      "proteins": "10 g"
+    },
+    "PAM Original cooking spray": {
+      "calories": "792 calories",
+      "fat": "79 g",
+      "colesterol": "0 mg",
+      "sodium": "59 mg",
+      "potassium": "21 g",
+      "carbs": "0.3 g"
+    },
+    "Roast beef": {
+      "calories": "170 calories",
+      "fat": "6 g",
+      "colesterol": "86 mg",
+      "sodium": "57 mg",
+      "potassium": "377 mg",
+      "carbs": "0 g",
+      "proteins": "29 g"
+    },
+    "Mustard oil": {
+      "calories": "884 calories",
+      "fat": "100 g",
+      "colesterol": "0 mg",
+      "sodium": "",
+      "potassium": "0 g",
+      "carbs": "0 g"
+    },
+    "Pita bread, white, unenriched": {
+      "calories": "275 calories",
+      "fat": "1.2 g",
+      "colesterol": "0 mg",
+      "sodium": "536 mg",
+      "potassium": "120 mg",
+      "carbs": "56 g",
+      "proteins": "9 g"
+    },
+    "Wheat bran": {
+      "calories": "216 calories",
+      "fat": "4.3 g",
+      "colesterol": "0 mg",
+      "sodium": "2 mg",
+      "potassium": "1,182 mg",
+      "carbs": "65 g",
+      "proteins": "16 g"
+    },
+    "English muffins": {
+      "calories": "235 calories",
+      "fat": "1.8 g",
+      "colesterol": "0 mg",
+      "sodium": "464 mg",
+      "potassium": "131 mg",
+      "carbs": "46 g",
+      "proteins": "8 g"
+    },
+    "Rutabaga": {
+      "calories": "38 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "12 mg",
+      "potassium": "305 mg",
+      "carbs": "9 g",
+      "proteins": "1.1 g"
+    },
+    "Dill weed": {
+      "calories": "43 calories",
+      "fat": "1.1 g",
+      "colesterol": "0 mg",
+      "sodium": "61 mg",
+      "potassium": "738 mg",
+      "carbs": "7 g",
+      "proteins": "3.5 g"
+    },
+    "Puffed rice": {
+      "calories": "402 calories",
+      "fat": "0.5 g",
+      "colesterol": "0 mg",
+      "sodium": "3 mg",
+      "potassium": "113 mg",
+      "carbs": "90 g",
+      "proteins": "6 g"
+    },
+    "Pecans": {
+      "calories": "690 calories",
+      "fat": "72 g",
+      "colesterol": "0 mg",
+      "sodium": "0 mg",
+      "potassium": "410 mg",
+      "carbs": "14 g",
+      "proteins": "9 g"
+    },
+    "Kashi Steam Meal Chicken Fettuccine": {
+      "calories": "99 calories",
+      "fat": "2.7 g",
+      "colesterol": "14 mg",
+      "sodium": "166 mg",
+      "potassium": "168 mg",
+      "carbs": "14 g",
+      "proteins": "6 g"
+    },
+    "Reese's Peanut Butter Cups": {
+      "calories": "514,6 kcal",
+      "fat": "31 g",
+      "colesterol": "6 mg",
+      "sodium": "357 mg",
+      "potassium": "343 mg",
+      "carbs": "55 g",
+      "proteins": "10 g"
+    },
+    "Pistachio nuts": {
+      "calories": "562 calories",
+      "fat": "45 g",
+      "colesterol": "0 mg",
+      "sodium": "1 mg",
+      "potassium": "1,025 mg",
+      "carbs": "28 g",
+      "proteins": "20 g"
+    },
+    "Water": {
+      "calories": "0 calories",
+      "fat": "0 g",
+      "colesterol": "3 mg",
+      "sodium": "",
+      "potassium": "0 g",
+      "carbs": "0 g"
+    },
+    "Poppy seeds": {
+      "calories": "525 calories",
+      "fat": "42 g",
+      "colesterol": "0 mg",
+      "sodium": "26 mg",
+      "potassium": "719 mg",
+      "carbs": "28 g",
+      "proteins": "18 g"
+    },
+    "Beet greens": {
+      "calories": "22 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "226 mg",
+      "potassium": "762 mg",
+      "carbs": "4.3 g",
+      "proteins": "2.2 g"
+    },
+   
+    "Milk, 1% fat": {
+      "calories": "42 calories",
+      "fat": "1 g",
+      "colesterol": "5 mg",
+      "sodium": "44 mg",
+      "potassium": "150 mg",
+      "carbs": "5 g",
+      "proteins": "3.4 g"
+    },
+    
+    "Sugar": {
+      "calories": "48 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "0 mg",
+      "potassium": "0.3 mg",
+      "carbs": "12.6 g",
+      "proteins": "0 g"
+    },
+    "Orange": {
+      "calories": "47 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "0 mg",
+      "potassium": "181 mg",
+      "carbs": "12 g",
+      "proteins": "0.9 g"
+    },
+    "Whey": {
+      "calories": "27 calories",
+      "fat": "0.4 g",
+      "colesterol": "2 mg",
+      "sodium": "54 mg",
+      "potassium": "161 mg",
+      "carbs": "5 g",
+      "proteins": "0.9 g"
+    },
+    "Semolina": {
+      "calories": "360 calories",
+      "fat": "1.1 g",
+      "colesterol": "0 mg",
+      "sodium": "1 mg",
+      "potassium": "186 mg",
+      "carbs": "73 g",
+      "proteins": "13 g"
+    },
+    "Cayenne pepper": {
+      "calories": "318 calories",
+      "fat": "17 g",
+      "colesterol": "0 mg",
+      "sodium": "30 mg",
+      "potassium": "2,014 mg",
+      "carbs": "57 g",
+      "proteins": "12 g"
+    },
+    "Starfruit": {
+      "calories": "31 calories",
+      "fat": "0.3 g",
+      "colesterol": "0 mg",
+      "sodium": "2 mg",
+      "potassium": "133 mg",
+      "carbs": "7 g",
+      "proteins": "1 g"
+    },
+    "Bread crumbs": {
+      "calories": "395 calories",
+      "fat": "5 g",
+      "colesterol": "0 mg",
+      "sodium": "732 mg",
+      "potassium": "196 mg",
+      "carbs": "72 g",
+      "proteins": "13 g"
+    },
+    "Chicken soup": {
+      "calories": "36 calories",
+      "fat": "1.2 g",
+      "colesterol": "3 mg",
+      "sodium": "143 mg",
+      "potassium": "105 mg",
+      "carbs": "3.5 g",
+      "proteins": "2.5 g"
+    },
+    "Ancho peppers": {
+      "calories": "281 calories",
+      "fat": "8 g",
+      "colesterol": "0 mg",
+      "sodium": "43 mg",
+      "potassium": "2,411 mg",
+      "carbs": "51 g",
+      "proteins": "12 g"
+    },
+    "Rice bran oil": {
+      "calories": "884 calories",
+      "fat": "100 g",
+      "colesterol": "0 mg",
+      "sodium": "0 mg",
+      "potassium": "",
+      "carbs": "0 g",
+      "proteins": "0 g"
+    },
+    "Vital wheat gluten": {
+      "calories": "370 calories",
+      "fat": "1.9 g",
+      "colesterol": "0 mg",
+      "sodium": "29 mg",
+      "potassium": "100 mg",
+      "carbs": "14 g",
+      "proteins": "75 g"
+    },
+    "Wheat flour, all-purpose": {
+      "calories": "364 calories",
+      "fat": "1 g",
+      "colesterol": "0 mg",
+      "sodium": "2 mg",
+      "potassium": "107 mg",
+      "carbs": "76 g",
+      "proteins": "10 g"
+    },
+    "Chicken": {
+      "calories": "2,390 calories",
+      "fat": "140 g",
+      "colesterol": "880 mg",
+      "sodium": "820 mg",
+      "potassium": "2,230 mg",
+      "carbs": "0 g",
+      "proteins": "270 g"
+    },
+    "Pita chips": {
+      "calories": "457 calories",
+      "fat": "15 g",
+      "colesterol": "0 mg",
+      "sodium": "854 mg",
+      "potassium": "129 mg",
+      "carbs": "68 g",
+      "proteins": "12 g"
+    },
+    "Cocoa Powder": {
+      "calories": "228 calories",
+      "fat": "14 g",
+      "colesterol": "0 mg",
+      "sodium": "21 mg",
+      "potassium": "1,524 mg",
+      "carbs": "58 g",
+      "proteins": "20 g"
+    },
+    "Syrup, maple": {
+      "calories": "260 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "12 mg",
+      "potassium": "212 mg",
+      "carbs": "67 g",
+      "proteins": "0 g"
+    },
+    
+    "Molasses": {
+      "calories": "290 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "37 mg",
+      "potassium": "1,464 mg",
+      "carbs": "75 g",
+      "proteins": "0 g"
+    },
+    "Chili peppers, green": {
+      "calories": "40 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "7 mg",
+      "potassium": "340 mg",
+      "carbs": "9 g",
+      "proteins": "2 g"
+    },
+    "Beef, short ribs, braised": {
+      "calories": "471 calories",
+      "fat": "42 g",
+      "colesterol": "94 mg",
+      "sodium": "50 mg",
+      "potassium": "224 mg",
+      "carbs": "0 g",
+      "proteins": "22 g"
+    },
+    "Ham, boneless, extra lean, 5% fat, roasted": {
+      "calories": "1 calories",
+      "fat": "0 g",
+      "colesterol": "0.5 mg",
+      "sodium": "12 mg",
+      "potassium": "2.9 mg",
+      "carbs": "0 g",
+      "proteins": "0 g"
+    },
+    "Ice pop": {
+      "calories": "79 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "7 mg",
+      "potassium": "15 mg",
+      "carbs": "19 g",
+      "proteins": "0 g"
+    },
+    "Hot sauce": {
+      "calories": "11 calories",
+      "fat": "0.4 g",
+      "colesterol": "0 mg",
+      "sodium": "2,643 mg",
+      "potassium": "144 mg",
+      "carbs": "1.8 g",
+      "proteins": "0.5 g"
+    },
+    "Cashew Butter": {
+      "calories": "587 calories",
+      "fat": "49 g",
+      "colesterol": "0 mg",
+      "sodium": "406 mg",
+      "potassium": "546 mg",
+      "carbs": "28 g",
+      "proteins": "18 g"
+    },
+    "Ribs": {
+      "calories": "351 calories",
+      "fat": "28 g",
+      "colesterol": "84 mg",
+      "sodium": "64 mg",
+      "potassium": "305 mg",
+      "carbs": "0 g",
+      "proteins": "23 g"
+    },
+    "Sugar cookie": {
+      "calories": "436 calories",
+      "fat": "19 g",
+      "colesterol": "11 mg",
+      "sodium": "291 mg",
+      "potassium": "147 mg",
+      "carbs": "61 g",
+      "proteins": "4 g"
+    },
+   
+    "Marshmallows": {
+      "calories": "318 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "80 mg",
+      "potassium": "5 mg",
+      "carbs": "81 g",
+      "proteins": "1.8 g"
+    },
+    "Thyme": {
+      "calories": "101 calories",
+      "fat": "1.7 g",
+      "colesterol": "0 mg",
+      "sodium": "9 mg",
+      "potassium": "609 mg",
+      "carbs": "24 g",
+      "proteins": "6 g"
+    },
+    "Gin, 90 proof": {
+      "calories": "263 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "2 mg",
+      "potassium": "",
+      "carbs": "0 g",
+      "proteins": "0 g"
+    },
+    "Whitefish": {
+      "calories": "172 calories",
+      "fat": "8 g",
+      "colesterol": "77 mg",
+      "sodium": "65 mg",
+      "potassium": "406 mg",
+      "carbs": "0 g",
+      "proteins": "24 g"
+    },
+    "Shrimp, cooked": {
+      "calories": "99 calories",
+      "fat": "0.3 g",
+      "colesterol": "189 mg",
+      "sodium": "111 mg",
+      "potassium": "259 mg",
+      "carbs": "0.2 g",
+      "proteins": "24 g"
+    },
+    "Jelly bean": {
+      "calories": "375 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "50 mg",
+      "potassium": "37 mg",
+      "carbs": "94 g",
+      "proteins": "0 g"
+    },
+    "Beef, ground, 70% lean meat / 30% fat": {
+      "calories": "332 calories",
+      "fat": "30 g",
+      "colesterol": "78 mg",
+      "sodium": "67 mg",
+      "potassium": "218 mg",
+      "carbs": "0 g",
+      "proteins": "14 g"
+    },
+    "Beef, ground, 70% lean meat / 30% fat, baked": {
+      "calories": "2 calories",
+      "fat": "0 g",
+      "colesterol": "0.7 mg",
+      "sodium": "0.7 mg",
+      "potassium": "2.4 mg",
+      "carbs": "0 g",
+      "proteins": "0 g"
+    },
+    "Walnuts": {
+      "calories": "654 calories",
+      "fat": "65 g",
+      "colesterol": "0 mg",
+      "sodium": "2 mg",
+      "potassium": "441 mg",
+      "carbs": "14 g",
+      "proteins": "15 g"
+    },
+    "Beef, ground, 85% lean meat / 15% fat, broiled": {
+      "calories": "250 calories",
+      "fat": "15 g",
+      "colesterol": "90 mg",
+      "sodium": "72 mg",
+      "potassium": "318 mg",
+      "carbs": "0 g",
+      "proteins": "26 g"
+    },
+    "Spearmint": {
+      "calories": "44 calories",
+      "fat": "0.7 g",
+      "colesterol": "0 mg",
+      "sodium": "30 mg",
+      "potassium": "458 mg",
+      "carbs": "8 g",
+      "proteins": "3.3 g"
+    },
+    "Turkey ham": {
+      "calories": "126 calories",
+      "fat": "4.8 g",
+      "colesterol": "72 mg",
+      "sodium": "1,243 mg",
+      "potassium": "287 mg",
+      "carbs": "2 g",
+      "proteins": "18 g"
+    },
+    "Oyster, Eastern, breaded and fried": {
+      "calories": "199 calories",
+      "fat": "13 g",
+      "colesterol": "71 mg",
+      "sodium": "417 mg",
+      "potassium": "244 mg",
+      "carbs": "12 g",
+      "proteins": "9 g"
+    },
+    "Pretzels, hard, salted": {
+      "calories": "380 calories",
+      "fat": "2.6 g",
+      "colesterol": "0 mg",
+      "sodium": "1,266 mg",
+      "potassium": "136 mg",
+      "carbs": "80 g",
+      "proteins": "10 g"
+    },
+    "Yogurt, Greek, nonfat": {
+      "calories": "59 calories",
+      "fat": "0.4 g",
+      "colesterol": "5 mg",
+      "sodium": "36 mg",
+      "potassium": "141 mg",
+      "carbs": "3.6 g",
+      "proteins": "10 g"
+    },
+    "Vinegret": {
+      "calories": "448,8 kcal",
+      "fat": "50 g",
+      "colesterol": "0 mg",
+      "sodium": "1 mg",
+      "potassium": "8 mg",
+      "carbs": "2,5 g",
+      "proteins": "0 g"
+    },
+    "Garlic bread": {
+      "calories": "350 calories",
+      "fat": "17 g",
+      "colesterol": "0 mg",
+      "sodium": "544 mg",
+      "potassium": "103 mg",
+      "carbs": "42 g",
+      "proteins": "8 g"
+    },
+    "Bay leaf": {
+      "calories": "314 calories",
+      "fat": "8 g",
+      "colesterol": "0 mg",
+      "sodium": "23 mg",
+      "potassium": "529 mg",
+      "carbs": "75 g",
+      "proteins": "8 g"
+    },
+    "Tostada, with beans, beef, and cheese": {
+      "calories": "148 calories",
+      "fat": "8 g",
+      "colesterol": "33 mg",
+      "sodium": "387 mg",
+      "potassium": "218 mg",
+      "carbs": "13 g",
+      "proteins": "7 g"
+    },
+    "Millet flour": {
+      "calories": "374 calories",
+      "fat": "4.3 g",
+      "colesterol": "4 mg",
+      "sodium": "224 mg",
+      "potassium": "73 g",
+      "carbs": "11 g"
+    },
+    "Hershey bar": {
+      "calories": "550 calories",
+      "fat": "36 g",
+      "colesterol": "19 mg",
+      "sodium": "74 mg",
+      "potassium": "471 mg",
+      "carbs": "51 g",
+      "proteins": "10 g"
+    },
+    "Pigeon peas": {
+      "calories": "343 calories",
+      "fat": "1.5 g",
+      "colesterol": "0 mg",
+      "sodium": "17 mg",
+      "potassium": "1,392 mg",
+      "carbs": "63 g",
+      "proteins": "22 g"
+    },
+    "Kidney beans, raw": {
+      "calories": "333 calories",
+      "fat": "0.8 g",
+      "colesterol": "0 mg",
+      "sodium": "24 mg",
+      "potassium": "1,406 mg",
+      "carbs": "60 g",
+      "proteins": "24 g"
+    },
+    "Grapefruit juice, pink": {
+      "calories": "39 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "1 mg",
+      "potassium": "162 mg",
+      "carbs": "9 g",
+      "proteins": "0.5 g"
+    },
+    "Vegetable Oil": {
+      "calories": "884 calories",
+      "fat": "100 g",
+      "colesterol": "0 mg",
+      "sodium": "0 mg",
+      "potassium": "",
+      "carbs": "0 g",
+      "proteins": "0 g"
+    },
+    "Burgundy": {
+      "calories": "86 calories",
+      "fat": "0 g",
+      "colesterol": "3.7 g",
+      "sodium": "0.1 g"
+    },
+    "Pumpkin pie spice": {
+      "calories": "342 calories",
+      "fat": "13 g",
+      "colesterol": "0 mg",
+      "sodium": "52 mg",
+      "potassium": "663 mg",
+      "carbs": "69 g",
+      "proteins": "6 g"
+    },
+    "Chili pepers, green": {
+      "calories": "282 calories",
+      "fat": "13 g",
+      "colesterol": "0 mg",
+      "sodium": "68 mg",
+      "potassium": "2,280 mg",
+      "carbs": "54 g",
+      "proteins": "14 g"
+    },
+    "Chervil": {
+      "calories": "237 calories",
+      "fat": "3.9 g",
+      "colesterol": "0 mg",
+      "sodium": "83 mg",
+      "potassium": "4,740 mg",
+      "carbs": "49 g",
+      "proteins": "23 g"
+    },
+    "Spare ribs": {
+      "calories": "277 calories",
+      "fat": "23 g",
+      "colesterol": "80 mg",
+      "sodium": "81 mg",
+      "potassium": "242 mg",
+      "carbs": "0 g",
+      "proteins": "15 g"
+    },
+    "Alfredo Sauce": {
+      "calories": "535 calories",
+      "fat": "36 g",
+      "colesterol": "56 mg",
+      "sodium": "2,590 mg",
+      "potassium": "254 mg",
+      "carbs": "37 g",
+      "proteins": "15 g"
+    },
+    "Honey": {
+      "calories": "4 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "0.1 mg",
+      "potassium": "0.7 mg",
+      "carbs": "1 g",
+      "proteins": "0 g"
+    },
+    "Foie gras, canned, smoked": {
+      "calories": "462 calories",
+      "fat": "44 g",
+      "colesterol": "150 mg",
+      "sodium": "697 mg",
+      "potassium": "138 mg",
+      "carbs": "4.7 g",
+      "proteins": "11 g"
+    },
+    "Pancakes": {
+      "calories": "227 calories",
+      "fat": "10 g",
+      "colesterol": "59 mg",
+      "sodium": "439 mg",
+      "potassium": "132 mg",
+      "carbs": "28 g",
+      "proteins": "6 g"
+    },
+    "Cooking Chocolate": {
+      "calories": "501 calories",
+      "fat": "52 g",
+      "colesterol": "0 mg",
+      "sodium": "24 mg",
+      "potassium": "830 mg",
+      "carbs": "30 g",
+      "proteins": "13 g"
+    },
+    "Banana chip": {
+      "calories": "519 calories",
+      "fat": "34 g",
+      "colesterol": "0 mg",
+      "sodium": "6 mg",
+      "potassium": "536 mg",
+      "carbs": "58 g",
+      "proteins": "2.3 g"
+    },
+    "Granola bar": {
+      "calories": "471 calories",
+      "fat": "20 g",
+      "colesterol": "0 mg",
+      "sodium": "294 mg",
+      "potassium": "336 mg",
+      "carbs": "64 g",
+      "proteins": "10 g"
+    },
+    "Egg, raw, quail": {
+      "calories": "158 calories",
+      "fat": "11 g",
+      "colesterol": "844 mg",
+      "sodium": "141 mg",
+      "potassium": "132 mg",
+      "carbs": "0.4 g",
+      "proteins": "13 g"
+    },
+    "Onions, sweet": {
+      "calories": "32 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "8 mg",
+      "potassium": "119 mg",
+      "carbs": "8 g",
+      "proteins": "0.8 g"
+    },
+    "Tapioca Pearls": {
+      "calories": "358 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "1 mg",
+      "potassium": "11 mg",
+      "carbs": "89 g",
+      "proteins": "0.2 g"
+    },
+    "Persimmons, american": {
+      "calories": "127 calories",
+      "fat": "0.4 g",
+      "colesterol": "0 mg",
+      "sodium": "1 mg",
+      "potassium": "310 mg",
+      "carbs": "34 g",
+      "proteins": "0.8 g"
+    },
+    "Tomatoes, red": {
+      "calories": "180 calories",
+      "fat": "2 g",
+      "colesterol": "0 mg",
+      "sodium": "50 mg",
+      "potassium": "2,370 mg",
+      "carbs": "39 g",
+      "proteins": "9 g"
+    },
+    "Cocoa butter": {
+      "calories": "884 calories",
+      "fat": "100 g",
+      "colesterol": "0 mg",
+      "sodium": "0 mg",
+      "potassium": "",
+      "carbs": "0 g",
+      "proteins": "0 g"
+    },
+    "Pineapple Juice": {
+      "calories": "60 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "1 mg",
+      "potassium": "124 mg",
+      "carbs": "16 g",
+      "proteins": "0.5 g"
+    },
+    "Egg bread": {
+      "calories": "287 calories",
+      "fat": "6 g",
+      "colesterol": "51 mg",
+      "sodium": "380 mg",
+      "potassium": "115 mg",
+      "carbs": "48 g",
+      "proteins": "10 g"
+    },
+    "Farina": {
+      "calories": "369 calories",
+      "fat": "0.5 g",
+      "colesterol": "0 mg",
+      "sodium": "3 mg",
+      "potassium": "94 mg",
+      "carbs": "78 g",
+      "proteins": "11 g"
+    },
+    "Margarine": {
+      "calories": "717 calories",
+      "fat": "81 g",
+      "colesterol": "0 mg",
+      "sodium": "2 mg",
+      "potassium": "18 mg",
+      "carbs": "0.7 g",
+      "proteins": "0.2 g"
+    },
+    "Onions": {
+      "calories": "40 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "4 mg",
+      "potassium": "146 mg",
+      "carbs": "9 g",
+      "proteins": "1.1 g"
+    },
+    "Rice noodles": {
+      "calories": "109 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "19 mg",
+      "potassium": "4 mg",
+      "carbs": "25 g",
+      "proteins": "0.9 g"
+    },
+    "Strip steak": {
+      "calories": "250 calories",
+      "fat": "6 g",
+      "colesterol": "117.7 mg",
+      "sodium": "117.7 mg",
+      "potassium": "731.9 mg",
+      "carbs": "0 g",
+      "proteins": "49 g"
+    },
+    "Cinnamon": {
+      "calories": "247 calories",
+      "fat": "1.2 g",
+      "colesterol": "0 mg",
+      "sodium": "10 mg",
+      "potassium": "431 mg",
+      "carbs": "81 g",
+      "proteins": "4 g"
+    },
+    "Round steak": {
+      "calories": "182 calories",
+      "fat": "7 g",
+      "colesterol": "77 mg",
+      "sodium": "58 mg",
+      "potassium": "363 mg",
+      "carbs": "0 g",
+      "proteins": "28 g"
+    },
+    "Sugar, brown": {
+      "calories": "380 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "28 mg",
+      "potassium": "133 mg",
+      "carbs": "98 g",
+      "proteins": "0.1 g"
+    },
+    "Sunflower butter": {
+      "calories": "617 calories",
+      "fat": "55 g",
+      "colesterol": "0 mg",
+      "sodium": "3 mg",
+      "potassium": "576 mg",
+      "carbs": "23 g",
+      "proteins": "17 g"
+    },
+    "Carrots": {
+      "calories": "41 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "69 mg",
+      "potassium": "320 mg",
+      "carbs": "10 g",
+      "proteins": "0.9 g"
+    },
+    "Bacon, pan-fried": {
+      "calories": "541 calories",
+      "fat": "42 g",
+      "colesterol": "110 mg",
+      "sodium": "1,717 mg",
+      "potassium": "565 mg",
+      "carbs": "1.4 g",
+      "proteins": "37 g"
+    },
+    "Sun-dried Tomatoes": {
+      "calories": "213 calories",
+      "fat": "14 g",
+      "colesterol": "0 mg",
+      "sodium": "266 mg",
+      "potassium": "1,565 mg",
+      "carbs": "23 g",
+      "proteins": "5 g"
+    },
+    "Sesame oil": {
+      "calories": "884 calories",
+      "fat": "100 g",
+      "colesterol": "0 mg",
+      "sodium": "0 mg",
+      "potassium": "",
+      "carbs": "0 g",
+      "proteins": "0 g"
+    },
+    "Garlic": {
+      "calories": "149 calories",
+      "fat": "0.5 g",
+      "colesterol": "0 mg",
+      "sodium": "17 mg",
+      "potassium": "401 mg",
+      "carbs": "33 g",
+      "proteins": "6 g"
+    },
+    "Fenugreek seed": {
+      "calories": "323 calories",
+      "fat": "6 g",
+      "colesterol": "0 mg",
+      "sodium": "67 mg",
+      "potassium": "770 mg",
+      "carbs": "58 g",
+      "proteins": "23 g"
+    },
+    "Aranciata": {
+      "calories": "48 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "12 mg",
+      "potassium": "2 mg",
+      "carbs": "12 g",
+      "proteins": "0 g"
+    },
+    "Truffle": {
+      "calories": "284 calories",
+      "fat": "0.7 g",
+      "colesterol": "0 mg",
+      "sodium": "35 mg",
+      "potassium": "754 mg",
+      "carbs": "73 g",
+      "proteins": "9 g"
+    },
+    "Fava beans, raw": {
+      "calories": "88 calories",
+      "fat": "0.7 g",
+      "colesterol": "0 mg",
+      "sodium": "25 mg",
+      "potassium": "332 mg",
+      "carbs": "18 g",
+      "proteins": "8 g"
+    },
+    "Worcestershire sauce": {
+      "calories": "78 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "980 mg",
+      "potassium": "800 mg",
+      "carbs": "19 g",
+      "proteins": "0 g"
+    },
+    "Kiselo vrhnje": {
+      "calories": "193,4 kcal",
+      "fat": "20 g",
+      "colesterol": "52 mg",
+      "sodium": "80 mg",
+      "potassium": "141 mg",
+      "carbs": "2,9 g",
+      "proteins": "2,1 g"
+    },
+    "Vermicelli": {
+      "calories": "331 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "4 mg",
+      "potassium": "3 mg",
+      "carbs": "82 g",
+      "proteins": "0.1 g"
+    },
+    "Poultry seasoning": {
+      "calories": "307 calories",
+      "fat": "8 g",
+      "colesterol": "0 mg",
+      "sodium": "27 mg",
+      "potassium": "684 mg",
+      "carbs": "66 g",
+      "proteins": "10 g"
+    },
+    "Flaxseed Oil": {
+      "calories": "884 calories",
+      "fat": "100 g",
+      "colesterol": "0 mg",
+      "sodium": "0 mg",
+      "potassium": "",
+      "carbs": "0 g",
+      "proteins": "0.1 g"
+    },
+    "Cookie Dough": {
+      "calories": "424 calories",
+      "fat": "19 g",
+      "colesterol": "24 mg",
+      "sodium": "294 mg",
+      "potassium": "147 mg",
+      "carbs": "59 g",
+      "proteins": "5 g"
+    },
+    "Rice, white, glutinous, cooked": {
+      "calories": "97 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "5 mg",
+      "potassium": "10 mg",
+      "carbs": "21 g",
+      "proteins": "2 g"
+    },
+    "Parsley": {
+      "calories": "36 calories",
+      "fat": "0.8 g",
+      "colesterol": "0 mg",
+      "sodium": "56 mg",
+      "potassium": "554 mg",
+      "carbs": "6 g",
+      "proteins": "3 g"
+    },
+    "Beef patties, frozen": {
+      "calories": "204 calories",
+      "fat": "16 g",
+      "colesterol": "53 mg",
+      "sodium": "74 mg",
+      "potassium": "269 mg",
+      "carbs": "0 g",
+      "proteins": "15 g"
+    },
+    "Cowpeas, cooked": {
+      "calories": "116 calories",
+      "fat": "0.5 g",
+      "colesterol": "0 mg",
+      "sodium": "4 mg",
+      "potassium": "278 mg",
+      "carbs": "21 g",
+      "proteins": "8 g"
+    },
+    "Kale": {
+      "calories": "49 calories",
+      "fat": "0.9 g",
+      "colesterol": "0 mg",
+      "sodium": "38 mg",
+      "potassium": "491 mg",
+      "carbs": "9 g",
+      "proteins": "4.3 g"
+    },
+    "Seaweed, agar, raw": {
+      "calories": "26 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "9 mg",
+      "potassium": "226 mg",
+      "carbs": "7 g",
+      "proteins": "0.5 g"
+    },
+    "Noodles, chinese, cellophane": {
+      "calories": "351 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "10 mg",
+      "potassium": "10 mg",
+      "carbs": "86 g",
+      "proteins": "0.2 g"
+    },
+    "Pie Crust": {
+      "calories": "527 calories",
+      "fat": "35 g",
+      "colesterol": "0 mg",
+      "sodium": "542 mg",
+      "potassium": "67 mg",
+      "carbs": "48 g",
+      "proteins": "6 g"
+    },
+    "Chicken, light meat, fried, with flour": {
+      "calories": "246 calories",
+      "fat": "12 g",
+      "colesterol": "87 mg",
+      "sodium": "77 mg",
+      "potassium": "239 mg",
+      "carbs": "1.8 g",
+      "proteins": "30 g"
+    },
+    "Steak sauce": {
+      "calories": "95 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "1,647 mg",
+      "potassium": "312 mg",
+      "carbs": "22 g",
+      "proteins": "1.3 g"
+    },
+    "Pound cake, butter": {
+      "calories": "388 calories",
+      "fat": "20 g",
+      "colesterol": "221 mg",
+      "sodium": "398 mg",
+      "potassium": "119 mg",
+      "carbs": "49 g",
+      "proteins": "6 g"
+    },
+    "Waffle": {
+      "calories": "291 calories",
+      "fat": "14 g",
+      "colesterol": "69 mg",
+      "sodium": "511 mg",
+      "potassium": "159 mg",
+      "carbs": "33 g",
+      "proteins": "8 g"
+    },
+    "Passion fruit": {
+      "calories": "97 calories",
+      "fat": "0.7 g",
+      "colesterol": "0 mg",
+      "sodium": "28 mg",
+      "potassium": "348 mg",
+      "carbs": "23 g",
+      "proteins": "2.2 g"
+    },
+    "Chicken tenders": {
+      "calories": "299 calories",
+      "fat": "18 g",
+      "colesterol": "47 mg",
+      "sodium": "748 mg",
+      "potassium": "330 mg",
+      "carbs": "16 g",
+      "proteins": "18 g"
+    },
+    "Butterfinger": {
+      "calories": "459 calories",
+      "fat": "19 g",
+      "colesterol": "0 mg",
+      "sodium": "230 mg",
+      "potassium": "220 mg",
+      "carbs": "73 g",
+      "proteins": "5 g"
+    },
+    "Tenderloin steak, broiled": {
+      "calories": "267 calories",
+      "fat": "17 g",
+      "colesterol": "97 mg",
+      "sodium": "54 mg",
+      "potassium": "329 mg",
+      "carbs": "0 g",
+      "proteins": "26 g"
+    },
+    "Potato": {
+      "calories": "770 calories",
+      "fat": "1 g",
+      "colesterol": "0 mg",
+      "sodium": "60 mg",
+      "potassium": "4,210 mg",
+      "carbs": "170 g",
+      "proteins": "20 g"
+    },
+    "Sugar, powdered": {
+      "calories": "389 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "2 mg",
+      "potassium": "2 mg",
+      "carbs": "100 g",
+      "proteins": "0 g"
+    },
+    "Sweet potato": {
+      "calories": "86 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "55 mg",
+      "potassium": "337 mg",
+      "carbs": "20 g",
+      "proteins": "1.6 g"
+    },
+    "Beer": {
+      "calories": "43 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "4 mg",
+      "potassium": "27 mg",
+      "carbs": "3.6 g",
+      "proteins": "0.5 g"
+    },
+    "Enoki mushroom": {
+      "calories": "37 calories",
+      "fat": "0.3 g",
+      "colesterol": "0 mg",
+      "sodium": "3 mg",
+      "potassium": "359 mg",
+      "carbs": "8 g",
+      "proteins": "2.7 g"
+    },
+    "Cheese, cheddar": {
+      "calories": "402 calories",
+      "fat": "33 g",
+      "colesterol": "105 mg",
+      "sodium": "621 mg",
+      "potassium": "98 mg",
+      "carbs": "1.3 g",
+      "proteins": "25 g"
+    },
+    "Butter cookie": {
+      "calories": "467 calories",
+      "fat": "19 g",
+      "colesterol": "117 mg",
+      "sodium": "282 mg",
+      "potassium": "111 mg",
+      "carbs": "69 g",
+      "proteins": "6 g"
+    },
+    "Kaiser roll": {
+      "calories": "293 calories",
+      "fat": "4.3 g",
+      "colesterol": "0 mg",
+      "sodium": "544 mg",
+      "potassium": "108 mg",
+      "carbs": "53 g",
+      "proteins": "10 g"
+    },
+    "Nectar": {
+      "calories": "56 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "3 mg",
+      "potassium": "114 mg",
+      "carbs": "14 g",
+      "proteins": "0.4 g"
+    },
+    "Ice Cream Cone": {
+      "calories": "417 calories",
+      "fat": "7 g",
+      "colesterol": "0 mg",
+      "sodium": "256 mg",
+      "potassium": "112 mg",
+      "carbs": "79 g",
+      "proteins": "8 g"
+    },
+    "Sirloin tip": {
+      "calories": "1,699 calories",
+      "fat": "50 g",
+      "colesterol": "810.1 mg",
+      "sodium": "410.8 mg",
+      "potassium": "2,624.3 mg",
+      "carbs": "0 g",
+      "proteins": "312 g"
+    },
+    "Chocolate truffle": {
+      "calories": "510 calories",
+      "fat": "34 g",
+      "colesterol": "53 mg",
+      "sodium": "68 mg",
+      "potassium": "297 mg",
+      "carbs": "45 g",
+      "proteins": "6 g"
+    },
+    "Red Wine": {
+      "calories": "1 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "0 mg",
+      "potassium": "1.3 mg",
+      "carbs": "0 g",
+      "proteins": "0 g"
+    },
+    "Toffee": {
+      "calories": "67 calories",
+      "fat": "3.9 g",
+      "colesterol": "12.5 mg",
+      "sodium": "16.2 mg",
+      "potassium": "6.1 mg",
+      "carbs": "8 g",
+      "proteins": "0.1 g"
+    },
+    "Vinegar, balsamic": {
+      "calories": "88 calories",
+      "fat": "0 g",
+      "colesterol": "23 mg",
+      "sodium": "112 mg",
+      "potassium": "17 g",
+      "carbs": "0.5 g"
+    },
+    "Hamburger, double patty": {
+      "calories": "295 calories",
+      "fat": "14 g",
+      "colesterol": "47 mg",
+      "sodium": "414 mg",
+      "potassium": "226 mg",
+      "carbs": "24 g",
+      "proteins": "17 g"
+    },
+    "Instant soup": {
+      "calories": "343 calories",
+      "fat": "3.1 g",
+      "colesterol": "12 mg",
+      "sodium": "2,400 mg",
+      "potassium": "1,248 mg",
+      "carbs": "76 g",
+      "proteins": "9 g"
+    },
+    "Cabbage": {
+      "calories": "307 calories",
+      "fat": "1.2 g",
+      "colesterol": "0 mg",
+      "sodium": "224.6 mg",
+      "potassium": "2,121.6 mg",
+      "carbs": "72 g",
+      "proteins": "16 g"
+    },
+    "Tea": {
+      "calories": "1 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "4 mg",
+      "potassium": "18 mg",
+      "carbs": "0.2 g",
+      "proteins": "0.1 g"
+    },
+    "Soy protein isolate": {
+      "calories": "338 calories",
+      "fat": "3.4 g",
+      "colesterol": "0 mg",
+      "sodium": "1,005 mg",
+      "potassium": "81 mg",
+      "carbs": "7 g",
+      "proteins": "81 g"
+    },
+    "Cornmeal": {
+      "calories": "370 calories",
+      "fat": "1.8 g",
+      "colesterol": "0 mg",
+      "sodium": "7 mg",
+      "potassium": "142 mg",
+      "carbs": "79 g",
+      "proteins": "7 g"
+    },
+    "Scallions": {
+      "calories": "32 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "16 mg",
+      "potassium": "276 mg",
+      "carbs": "7 g",
+      "proteins": "1.8 g"
+    },
+    "Whiskey, 86 proof": {
+      "calories": "250 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "0 mg",
+      "potassium": "1 mg",
+      "carbs": "0.1 g",
+      "proteins": "0 g"
+    },
+    "Rum, 80 proof": {
+      "calories": "2 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "0 mg",
+      "potassium": "0 mg",
+      "carbs": "0 g",
+      "proteins": "0 g"
+    },
+    "Liquor, 100 proof": {
+      "calories": "295 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "1 mg",
+      "potassium": "2 mg",
+      "carbs": "0 g",
+      "proteins": "0 g"
+    },
+    "French Dressing": {
+      "calories": "457 calories",
+      "fat": "45 g",
+      "colesterol": "0 mg",
+      "sodium": "836 mg",
+      "potassium": "67 mg",
+      "carbs": "16 g",
+      "proteins": "0.8 g"
+    },
+    "Cod, Atlantic": {
+      "calories": "82 calories",
+      "fat": "0.7 g",
+      "colesterol": "43 mg",
+      "sodium": "54 mg",
+      "potassium": "413 mg",
+      "carbs": "0 g",
+      "proteins": "18 g"
+    },
+    
+    "Egg substitutes": {
+      "calories": "444 calories",
+      "fat": "13 g",
+      "colesterol": "572 mg",
+      "sodium": "800 mg",
+      "potassium": "744 mg",
+      "carbs": "22 g",
+      "proteins": "56 g"
+    },
+    "Focaccia": {
+      "calories": "250 calories",
+      "fat": "8 g",
+      "colesterol": "0 mg",
+      "sodium": "561 mg",
+      "potassium": "114 mg",
+      "carbs": "36 g",
+      "proteins": "9 g"
+    },
+    "Olive oil": {
+      "calories": "644 calories",
+      "fat": "76 g",
+      "colesterol": "0 mg",
+      "sodium": "1.6 mg",
+      "potassium": "0.5 mg",
+      "carbs": "0 g",
+      "proteins": "0 g"
+    },
+    "Corn flour, unenriched, white": {
+      "calories": "365 calories",
+      "fat": "3.9 g",
+      "colesterol": "0 mg",
+      "sodium": "5 mg",
+      "potassium": "263 mg",
+      "carbs": "76 g",
+      "proteins": "9 g"
+    },
+    "Graham Crackers": {
+      "calories": "423 calories",
+      "fat": "10 g",
+      "colesterol": "0 mg",
+      "sodium": "477 mg",
+      "potassium": "135 mg",
+      "carbs": "77 g",
+      "proteins": "7 g"
+    },
+    "Cranberry bean": {
+      "calories": "335 calories",
+      "fat": "1.2 g",
+      "colesterol": "0 mg",
+      "sodium": "6 mg",
+      "potassium": "1,332 mg",
+      "carbs": "60 g",
+      "proteins": "23 g"
+    },
+    "Corned beef, brisket, cooked": {
+      "calories": "251 calories",
+      "fat": "19 g",
+      "colesterol": "98 mg",
+      "sodium": "973 mg",
+      "potassium": "145 mg",
+      "carbs": "0.5 g",
+      "proteins": "18 g"
+    },
+    "Camembert cheese": {
+      "calories": "299 calories",
+      "fat": "24 g",
+      "colesterol": "72 mg",
+      "sodium": "842 mg",
+      "potassium": "187 mg",
+      "carbs": "0.5 g",
+      "proteins": "20 g"
+    },
+    "Lemon": {
+      "calories": "29 calories",
+      "fat": "0.3 g",
+      "colesterol": "0 mg",
+      "sodium": "2 mg",
+      "potassium": "138 mg",
+      "carbs": "9 g",
+      "proteins": "1.1 g"
+    },
+    "Rainbow trout": {
+      "calories": "141 calories",
+      "fat": "6 g",
+      "colesterol": "59 mg",
+      "sodium": "51 mg",
+      "potassium": "377 mg",
+      "carbs": "0 g",
+      "proteins": "20 g"
+    },
+    
+    "Hash browns": {
+      "calories": "326 calories",
+      "fat": "22 g",
+      "colesterol": "0 mg",
+      "sodium": "518 mg",
+      "potassium": "356 mg",
+      "carbs": "32 g",
+      "proteins": "2.6 g"
+    },
+    "Jam": {
+      "calories": "278 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "32 mg",
+      "potassium": "77 mg",
+      "carbs": "69 g",
+      "proteins": "0.4 g"
+    },
+    "Rib eye steak, grilled": {
+      "calories": "847 calories",
+      "fat": "63 g",
+      "colesterol": "232.8 mg",
+      "sodium": "157.1 mg",
+      "potassium": "756.6 mg",
+      "carbs": "0 g",
+      "proteins": "69 g"
+    },
+    "Spread": {
+      "calories": "235 calories",
+      "fat": "17 g",
+      "colesterol": "38 mg",
+      "sodium": "1,013 mg",
+      "potassium": "110 mg",
+      "carbs": "12 g",
+      "proteins": "8 g"
+    },
+    "Eggplant": {
+      "calories": "25 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "2 mg",
+      "potassium": "229 mg",
+      "carbs": "6 g",
+      "proteins": "1 g"
+    },
+    "Skipjack tuna": {
+      "calories": "132 calories",
+      "fat": "1.3 g",
+      "colesterol": "60 mg",
+      "sodium": "47 mg",
+      "potassium": "522 mg",
+      "carbs": "0 g",
+      "proteins": "28 g"
+    },
+    "Cardamom": {
+      "calories": "311 calories",
+      "fat": "7 g",
+      "colesterol": "0 mg",
+      "sodium": "18 mg",
+      "potassium": "1,119 mg",
+      "carbs": "68 g",
+      "proteins": "11 g"
+    },
+    "Meatloaf": {
+      "calories": "149 calories",
+      "fat": "6 g",
+      "colesterol": "46 mg",
+      "sodium": "732 mg",
+      "potassium": "394 mg",
+      "carbs": "4.5 g",
+      "proteins": "17 g"
+    },
+    "Gizzard": {
+      "calories": "94 calories",
+      "fat": "2.1 g",
+      "colesterol": "240 mg",
+      "sodium": "69 mg",
+      "potassium": "237 mg",
+      "carbs": "0 g",
+      "proteins": "18 g"
+    },
+    "Chocolate spread": {
+      "calories": "541 calories",
+      "fat": "30 g",
+      "colesterol": "0 mg",
+      "sodium": "41 mg",
+      "potassium": "407 mg",
+      "carbs": "62 g",
+      "proteins": "5 g"
+    },
+    "Yam": {
+      "calories": "118 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "9 mg",
+      "potassium": "816 mg",
+      "carbs": "28 g",
+      "proteins": "1.5 g"
+    },
+    "Tomato paste": {
+      "calories": "82 calories",
+      "fat": "0.5 g",
+      "colesterol": "0 mg",
+      "sodium": "59 mg",
+      "potassium": "1,014 mg",
+      "carbs": "19 g",
+      "proteins": "4.3 g"
+    },
+    "Tomato sauce, canned": {
+      "calories": "29 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "11 mg",
+      "potassium": "331 mg",
+      "carbs": "7 g",
+      "proteins": "1.3 g"
+    },
+    "German chocolate cake": {
+      "calories": "350 calories",
+      "fat": "3.2 g",
+      "colesterol": "0 mg",
+      "sodium": "841 mg",
+      "potassium": "153 mg",
+      "carbs": "81 g",
+      "proteins": "4.2 g"
+    },
+    "Bread sticks": {
+      "calories": "412 calories",
+      "fat": "10 g",
+      "colesterol": "0 mg",
+      "sodium": "713 mg",
+      "potassium": "124 mg",
+      "carbs": "68 g",
+      "proteins": "12 g"
+    },
+    "Tenderloin roast": {
+      "calories": "324 calories",
+      "fat": "25 g",
+      "colesterol": "85 mg",
+      "sodium": "57 mg",
+      "potassium": "331 mg",
+      "carbs": "0 g",
+      "proteins": "24 g"
+    },
+    "Nutmeg, ground": {
+      "calories": "525 calories",
+      "fat": "36 g",
+      "colesterol": "0 mg",
+      "sodium": "16 mg",
+      "potassium": "350 mg",
+      "carbs": "49 g",
+      "proteins": "6 g"
+    },
+    "Tonic water": {
+      "calories": "34 calories",
+      "fat": "0 g",
+      "colesterol": "0 mg",
+      "sodium": "12 mg",
+      "potassium": "",
+      "carbs": "9 g",
+      "proteins": "0 g"
+    },
+    "Oat bran, raw": {
+      "calories": "246 calories",
+      "fat": "7 g",
+      "colesterol": "0 mg",
+      "sodium": "4 mg",
+      "potassium": "566 mg",
+      "carbs": "66 g",
+      "proteins": "17 g"
+    },
+    "Bread roll": {
+      "calories": "310 calories",
+      "fat": "6 g",
+      "colesterol": "4 mg",
+      "sodium": "467 mg",
+      "potassium": "139 mg",
+      "carbs": "52 g",
+      "proteins": "11 g"
+    },
+    "Top loin petite roast": {
+      "calories": "213 calories",
+      "fat": "11 g",
+      "colesterol": "85 mg",
+      "sodium": "84 mg",
+      "potassium": "369 mg",
+      "carbs": "0.9 g",
+      "proteins": "27 g"
+    },
+    "Soy sauce, shoyu": {
+      "calories": "53 calories",
+      "fat": "0.6 g",
+      "colesterol": "0 mg",
+      "sodium": "5,493 mg",
+      "potassium": "435 mg",
+      "carbs": "4.9 g",
+      "proteins": "8 g"
+    },
+    "Salsa": {
+      "calories": "36 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "430 mg",
+      "potassium": "270 mg",
+      "carbs": "7 g",
+      "proteins": "1.5 g"
+    },
+    "Pork Crackling": {
+      "calories": "544 calories",
+      "fat": "31 g",
+      "colesterol": "95 mg",
+      "sodium": "1,818 mg",
+      "potassium": "127 mg",
+      "carbs": "0 g",
+      "proteins": "61 g"
+    },
+    "Chocolate chip cookie (homemade)": {
+      "calories": "488 calories",
+      "fat": "28 g",
+      "colesterol": "70 mg",
+      "sodium": "341 mg",
+      "potassium": "221 mg",
+      "carbs": "58 g",
+      "proteins": "6 g"
+    },
+    "Lamb, 1/4\" fat, cooked": {
+      "calories": "294 calories",
+      "fat": "21 g",
+      "colesterol": "97 mg",
+      "sodium": "72 mg",
+      "potassium": "310 mg",
+      "carbs": "0 g",
+      "proteins": "25 g"
+    },
+    "Pork Tenderloin": {
+      "calories": "143 calories",
+      "fat": "3.5 g",
+      "colesterol": "73 mg",
+      "sodium": "57 mg",
+      "potassium": "421 mg",
+      "carbs": "0 g",
+      "proteins": "26 g"
+    },
+    "Sweet corn, white": {
+      "calories": "86 calories",
+      "fat": "1.2 g",
+      "colesterol": "0 mg",
+      "sodium": "15 mg",
+      "potassium": "270 mg",
+      "carbs": "19 g",
+      "proteins": "3.2 g"
+    },
+    "Campbell's Cream of Chicken Soup": {
+      "calories": "97 calories",
+      "fat": "6 g",
+      "colesterol": "8 mg",
+      "sodium": "702 mg",
+      "potassium": "48 mg",
+      "carbs": "8 g",
+      "proteins": "1.6 g"
+    },
+    "Egg, yolk, raw": {
+      "calories": "322 calories",
+      "fat": "27 g",
+      "colesterol": "1,085 mg",
+      "sodium": "48 mg",
+      "potassium": "109 mg",
+      "carbs": "3.6 g",
+      "proteins": "16 g"
+    },
+    "Cheese, mozzarella, low sodium": {
+      "calories": "280 calories",
+      "fat": "17 g",
+      "colesterol": "54 mg",
+      "sodium": "16 mg",
+      "potassium": "95 mg",
+      "carbs": "3.1 g",
+      "proteins": "28 g"
+    },
+    "Queso Chihuahua": {
+      "calories": "375 calories",
+      "fat": "30 g",
+      "colesterol": "105 mg",
+      "sodium": "617 mg",
+      "potassium": "52 mg",
+      "carbs": "6 g",
+      "proteins": "22 g"
+    },
+    "Soba, cooked": {
+      "calories": "99 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "60 mg",
+      "potassium": "35 mg",
+      "carbs": "21 g",
+      "proteins": "5 g"
+    },
+    "Skirt Steak": {
+      "calories": "220 calories",
+      "fat": "12 g",
+      "colesterol": "60 mg",
+      "sodium": "75 mg",
+      "potassium": "289 mg",
+      "carbs": "0 g",
+      "proteins": "26 g"
+    },
+    "Mashed potato": {
+      "calories": "88 calories",
+      "fat": "2.8 g",
+      "colesterol": "0 mg",
+      "sodium": "306 mg",
+      "potassium": "286 mg",
+      "carbs": "15 g",
+      "proteins": "1.7 g"
+    },
+    "Macaroons, with coconut": {
+      "calories": "404 calories",
+      "fat": "13 g",
+      "colesterol": "0 mg",
+      "sodium": "247 mg",
+      "potassium": "156 mg",
+      "carbs": "72 g",
+      "proteins": "3.6 g"
+    },
+    "Sunflower Oil": {
+      "calories": "884 calories",
+      "fat": "100 g",
+      "colesterol": "0 mg",
+      "sodium": "0 mg",
+      "potassium": "",
+      "carbs": "0 g",
+      "proteins": "0 g"
+    },
+    "Mars Snackfood US Snickers Cruncher": {
+      "calories": "488 calories",
+      "fat": "24 g",
+      "colesterol": "9 mg",
+      "sodium": "189 mg",
+      "potassium": "63 g",
+      "carbs": "7 g"
+    },
+    "Nectarine": {
+      "calories": "44 calories",
+      "fat": "0.3 g",
+      "colesterol": "0 mg",
+      "sodium": "0 mg",
+      "potassium": "201 mg",
+      "carbs": "11 g",
+      "proteins": "1.1 g"
+    },
+    "Sunflower seeds, dried": {
+      "calories": "584 calories",
+      "fat": "51 g",
+      "colesterol": "0 mg",
+      "sodium": "9 mg",
+      "potassium": "645 mg",
+      "carbs": "20 g",
+      "proteins": "21 g"
+    },
+    "Artichokes": {
+      "calories": "47 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "94 mg",
+      "potassium": "370 mg",
+      "carbs": "11 g",
+      "proteins": "3.3 g"
+    },
+    "Wheat flour, all-purpose, unbleached": {
+      "calories": "364 calories",
+      "fat": "1 g",
+      "colesterol": "0 mg",
+      "sodium": "2 mg",
+      "potassium": "107 mg",
+      "carbs": "76 g",
+      "proteins": "10 g"
+    },
+    "Allspice": {
+      "calories": "263 calories",
+      "fat": "9 g",
+      "colesterol": "0 mg",
+      "sodium": "77 mg",
+      "potassium": "1,044 mg",
+      "carbs": "72 g",
+      "proteins": "6 g"
+    },
+    "Butternut squash": {
+      "calories": "45 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "4 mg",
+      "potassium": "352 mg",
+      "carbs": "12 g",
+      "proteins": "1 g"
+    },
+    "Roquefort": {
+      "calories": "369 calories",
+      "fat": "31 g",
+      "colesterol": "90 mg",
+      "sodium": "1,809 mg",
+      "potassium": "91 mg",
+      "carbs": "2 g",
+      "proteins": "22 g"
+    },
+    "Green Beans": {
+      "calories": "31 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "6 mg",
+      "potassium": "209 mg",
+      "carbs": "7 g",
+      "proteins": "1.8 g"
+    },
+    "Pattypan squash, raw": {
+      "calories": "18 calories",
+      "fat": "0.2 g",
+      "colesterol": "0 mg",
+      "sodium": "1 mg",
+      "potassium": "182 mg",
+      "carbs": "3.8 g",
+      "proteins": "1.2 g"
+    },
+    "Duck sauce": {
+      "calories": "245 calories",
+      "fat": "0.1 g",
+      "colesterol": "0 mg",
+      "sodium": "455 mg",
+      "potassium": "87 mg",
+      "carbs": "61 g",
+      "proteins": "0.4 g"
+    },
+    "Pinot Noir": {
+      "calories": "81 calories",
+      "fat": "0 g",
+      "colesterol": "2.3 g",
+      "sodium": "0.1 g"
+    },
+    "Kielbasa, smoked": {
+      "calories": "226 calories",
+      "fat": "18 g",
+      "colesterol": "70 mg",
+      "sodium": "1,200 mg",
+      "potassium": "3.9 g",
+      "carbs": "13 g",
+      "proteins": ""
+    },
+    "Bratwurst, pork and beef, smoked": {
+      "calories": "297 calories",
+      "fat": "26 g",
+      "colesterol": "78 mg",
+      "sodium": "848 mg",
+      "potassium": "283 mg",
+      "carbs": "2 g",
+      "proteins": "12 g"
+    },
+    "MISSION FOODS MISSION Flour Tortillas": {
+      "calories": "287 calories",
+      "fat": "6 g",
+      "colesterol": "898 mg",
+      "sodium": "50 g",
+      "potassium": "9 g"
+    },
+    "Dried Fruit": {
+      "calories": "359 calories",
+      "fat": "2.7 g",
+      "colesterol": "0 mg",
+      "sodium": "403 mg",
+      "potassium": "164 mg",
+      "carbs": "83 g",
+      "proteins": "1 g"
+    },
+    "Split peas, raw": {
+      "calories": "341 calories",
+      "fat": "1.2 g",
+      "colesterol": "0 mg",
+      "sodium": "15 mg",
+      "potassium": "981 mg",
+      "carbs": "60 g",
+      "proteins": "25 g"
+    },
+    "Pine nuts": {
+      "calories": "7 calories",
+      "fat": "1 g",
+      "colesterol": "0 mg",
+      "sodium": "0 mg",
+      "potassium": "6 mg",
+      "carbs": "0 g",
+      "proteins": "0 g"
+    },
+    "Adzuki bean, raw": {
+      "calories": "329 calories",
+      "fat": "0.5 g",
+      "colesterol": "0 mg",
+      "sodium": "5 mg",
+      "potassium": "1,254 mg",
+      "carbs": "63 g",
+      "proteins": "20 g"
+    },
+    "Bread, white": {
+      "calories": "265 calories",
+      "fat": "3.2 g",
+      "colesterol": "0 mg",
+      "sodium": "491 mg",
+      "potassium": "115 mg",
+      "carbs": "49 g",
+      "proteins": "9 g"
+    },
+    "Sofrito Sauce": {
+      "calories": "237 calories",
+      "fat": "18 g",
+      "colesterol": "1,145 mg",
+      "sodium": "401 mg",
+      "potassium": "5 g",
+      "carbs": "13 g"
+    },
+    "After Eight": {
+      "calories": "432 calories",
+      "fat": "12 g",
+      "colesterol": "0 mg",
+      "sodium": "1 mg",
+      "potassium": "80 g",
+      "carbs": "1.7 g"
+    },
+    "Gram flour": {
+      "calories": "387 calories",
+      "fat": "7 g",
+      "colesterol": "0 mg",
+      "sodium": "64 mg",
+      "potassium": "846 mg",
+      "carbs": "58 g",
+      "proteins": "22 g"
+    },
+    "Worthington Multigrain Cutlets": {
+      "calories": "108 calories",
+      "fat": "1.3 g",
+      "colesterol": "0 mg",
+      "sodium": "313 mg",
+      "potassium": "32 mg",
+      "carbs": "6 g",
+      "proteins": "18 g"
+    },
+    "Bouillon cube": {
+      "calories": "438 calories",
+      "fat": "14 g",
+      "colesterol": "13 mg",
+      "sodium": "1,067 mg",
+      "potassium": "309 mg",
+      "carbs": "65 g",
+      "proteins": "17 g"
+    },
+    "Goose fat": {
+      "calories": "900 calories",
+      "fat": "100 g",
+      "colesterol": "100 mg",
+      "sodium": "0 mg",
+      "potassium": "",
+      "carbs": "0 g",
+      "proteins": "0 g"
+    },
+    "Melon ball": {
+      "calories": "33 calories",
+      "fat": "0.3 g",
+      "colesterol": "0 mg",
+      "sodium": "31 mg",
+      "potassium": "280 mg",
+      "carbs": "8 g",
+      "proteins": "0.8 g"
+    },
+    "Sour cream": {
+      "calories": "193 calories",
+      "fat": "20 g",
+      "colesterol": "52 mg",
+      "sodium": "80 mg",
+      "potassium": "141 mg",
+      "carbs": "2.9 g",
+      "proteins": "2.1 g"
+    },
+    "Leeks": {
+      "calories": "61 calories",
+      "fat": "0.3 g",
+      "colesterol": "0 mg",
+      "sodium": "20 mg",
+      "potassium": "180 mg",
+      "carbs": "14 g",
+      "proteins": "1.5 g"
+    },
+    "Oatmeal": {
+      "calories": "68 calories",
+      "fat": "1.4 g",
+      "colesterol": "0 mg",
+      "sodium": "49 mg",
+      "potassium": "61 mg",
+      "carbs": "12 g",
+      "proteins": "2.4 g"
+    }
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unesi</title>
+    <link rel="stylesheet" href="public/stylesNew.css">
+    
+</head>
+<body>
+    
+    
+    
+    <div class="navbar">
+        RECIPE NAME:<input type="text" id="naslov" placeholder="naslov" autocomplete="off">
+        <br>
+        <br>
+        <div class="ingredient_input">
+            NEW INGREDIENT:<input type="text" id="amount" placeholder="amount" autocomplete="off">
+            
+            <select name="unitsi" id="unitsi">
+                <option value="g">g</option>
+                <option value="dg">dg</option>
+                <option value="cup">cup</option>
+                <option value="oz">oz</option>
+            </select>
+            
+            <input type="text" placeholder="ingredient" autocomplete="off" id="sastojak">
+            <button onclick="pushMainIngredient()">ADD MAIN INGREDIENT</button>
+            <div id="autocomplete">
+            </div>
+        </div>
+        
+        <button onclick = "pushData()">ADD INGREDIENT</button>
+        <span id="confirmed"></span>
+        <br>
+        <br>
+        IMG URL:<input  type="text" id="imgurl" placeholder="image url" autocomplete="off">
+        <button onclick = "spremirecept()">SAVE RECIPE</button> 
+    </div>
+        <div id="pokazi"></div>
+
+    <script src="socket.io/socket.io.js"></script>
+    <script src="public/client.js"></script>
+    
+</body>
+</html>
